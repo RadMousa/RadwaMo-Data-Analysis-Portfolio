@@ -17,6 +17,8 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 *Python / Google Colab* – I learned how to use Python libraries such as pandas, NumPy, matplotlib and seaborn to perform data cleaning, aggregations and data visualisation.
 
 ## Projects I have completed.
-![Excel-Retail-Dataset](excel%201.jpeg) The retail dataset contained 1,001 rows of information regarding customers, the products they ordered, and commission rates. After cleaning and formatting the dataset, I applied aggregation functions such as SUMIFS and AVERAGEIF to evaluate sales performance across different products. I also utilised aggregation functions to identify customer purchasing behaviour and implemented conditional formatting to visually highlight the sales performance of each product category. The analysis revealed that although both male and female customers purchased clothing products the most, this category still produced the lowest total sales, indicating a lower average price point.
+![Excel-Retail-Dataset](excel%201.jpeg)  <img width="1113" height="671" alt="image" src="https://github.com/user-attachments/assets/0f0cc149-ea5a-4d37-9743-c2796a0bcd42" />
+The retail dataset contained 1,001 rows of information regarding customers, the products they ordered, and commission rates. After cleaning and formatting the dataset, I applied aggregation functions such as SUMIFS and AVERAGEIF to evaluate sales performance across different products. I also utilised aggregation functions to identify customer purchasing behaviour and implemented conditional formatting to visually highlight the sales performance of each product category. The analysis revealed that although both male and female customers purchased clothing products the most, this category still produced the lowest total sales, indicating a lower average price point.
 <br>
+
 [SQL] 
