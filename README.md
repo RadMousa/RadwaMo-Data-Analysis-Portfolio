@@ -22,5 +22,6 @@ The retail dataset contained 1,001 rows of information regarding customers, the 
 <br>
 
 <img width="1920" height="807" alt="image" src="https://github.com/user-attachments/assets/85c814ea-6211-4340-aaa6-1809e1b099af" />
+[revenue-progression](Revenue-and-profit-over-5-years.png) 
 
 The bike sales project consisted of 113,037 transactions. I cleaned and formatted the dataset by removing duplicates and standardising formats such as currency and dates. I also used formulas to calculate cost, revenue, and net profit. I then created pivot tables and pivot charts to analyse annual revenue and cost over a five-year period, as well as product revenue by country and customer demographics. Over those five years, sales increased rapidly to reach a peak of $29.7 million in 2021. The United States recorded the highest volume of bikes sold, contributing the majority of global revenue. Additionally, adult shoppers dominate the customer base, with adults making up 50%, young adults 36%, and youth 14%.
