@@ -18,11 +18,11 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 *Python / Google Colab* – I learned how to use Python libraries such as pandas, NumPy, matplotlib and seaborn to perform data cleaning, aggregations and data visualisation.
 
 
-## Projects I have completed.
+# Projects I have completed.
 
-# Bikes and Retail Sales Analysis (Excel)
+## Bikes and Retail Sales Analysis (Excel)
 
-*Project Overview*
+### Project Overview
 
 Throughout these two projects, I used Microsoft Excel to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
 
