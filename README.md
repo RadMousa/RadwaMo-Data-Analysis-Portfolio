@@ -24,7 +24,7 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 
 ### Project Overview
 
-Throughout these two projects, I used Microsoft Excel to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
+Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
 
 
 ### Approach & Process 
@@ -38,7 +38,7 @@ Throughout these two projects, I used Microsoft Excel to clean, analyse, and vis
 * Using conditional formatting to highlight key patterns and performance.  
 
 
-### The main techniques were
+### Methods & Tools Used
 
 * Data cleaning and formatting.  
 * SUMIFS and AVERAGEIF functions.  
@@ -83,16 +83,14 @@ Throughout these two projects, I used Microsoft Excel to clean, analyse, and vis
 
 ### Datasets 
 
-*Retail Sales Dataset  
-*Bike Sales Dataset  
+***Retail Sales Dataset**  
+***Bike Sales Dataset**  
 
-**Source**: Provided via bootcamp 
+*Source*: Provided via bootcamp 
 
 The retail dataset contains 1,001 rows of customer, product, and sales information. 
 
 The bike sales dataset contains 113,037 transactions, including customer demographics, product information, sales, costs, and revenue. 
-
-Both datasets required cleaning and preparation before analysis to ensure accurate reporting and meaningful business insights. 
 
 
 ### Key Findings 
@@ -114,7 +112,90 @@ Business relevance:
 
 These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies. 
 
- 
+
 ### Conclusion 
 
 This project demonstrates my ability to clean and analyse data using Excel, apply formulas and PivotTables, and create visualisations and identify insights. 
+
+
+
+ 
+
+## Spotify Listener Trends (via Tableau) 
+
+## Project Overview 
+
+This project uses **Tableau** to analyse Spotify track data and explore trends in music popularity. 
+
+The interactive dashboard allows users and stakeholders to explore the relationships between audio features and popularity, providing insights into factors that contribute to a tracks success. 
+
+ 
+## Approach & Process
+
+* Importing and exploring the Spotify dataset.  
+* Applying aggregation functions using SUM() and AVG().  
+* Creating multiple worksheets to analyse different listener trends.  
+* Adding linear regression trend lines to identify correlations between variables.  
+* Building an interactive dashboard using filters and multiple visualisations.  
+* Analysing the completed dashboard to identify key insights.  
+
+
+
+## Methods & Tools Used  
+
+* Data aggregation using average and sum calculations.  
+* Scatter plots with linear regression trend lines.  
+* Bar charts compare genres and artists.  
+* Interactive filters to explore different areas of the dataset.  
+* Interactive dashboard design using multiple worksheets. 
+
+
+
+Dashboard Visualisations 
+
+(Insert screenshots here) 
+
+Genre Popularity  
+
+Track Characteristics by Genre  
+
+Average Popularity vs Average Danceability  
+
+Popularity by Artist  
+
+Popularity Based on Track Duration  
+
+ 
+
+## Dataset 
+
+ ***Spotify Features Dataset**  
+
+*Source*: Provided via bootcamp  
+
+The dataset contains 232,726 rows and 18 columns, it includes information on artists, genres, popularity, and Spotify audio features such as danceability, energy, duration, tempo, acousticness, and valence. 
+
+
+## Key Findings 
+
+1. **Track Characteristics and Popularity** 
+
+The analysis found a positive relationship between danceability and popularity, with tracks scoring between 0.5 and 0.7 in danceability having higher popularity. It also showed that tracks lasting between 3.5 – 4.5 minutes performed better than shorter or longer songs. 
+
+**Business relevance:** 
+These insights could help Spotify improve playlist recommendations and support artists and record labels in understanding listener preferences. 
+
+ 
+
+2. **Genre and Artist Performance** 
+
+The dashboard showed that Pop, Rap, and Rock were the most popular genres in the dataset. Drake achieved the highest overall popularity, while artists such as Hans Zimmer showed that other genres can also generate significant listener engagement. 
+
+**Business relevance:**
+Understanding genre and artist performance can be used to support playlist curation, marketing and increase user engagement.  
+
+ 
+
+## Conclusion 
+
+This project demonstrates my ability to analyse large datasets, create visualisations tailored to specific data goals and draw insights and trends.  
