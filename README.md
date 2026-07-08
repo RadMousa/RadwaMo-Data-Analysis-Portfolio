@@ -49,14 +49,15 @@ Throughout these two projects, I used Microsoft Excel to clean, analyse, and vis
 
 ### Project Screenshots
 <p align="center">
-  <img src="./Retail-sales .png" width="500" alt="Retail Sales Analysis Snapshot">
+  <img src="./Retail-sales .png" width="700" alt="Retail Sales Analysis Snapshot">
 </p>
 
                                                                 Retail Product Sales Analysis  
 
 <p align="center">
-  <img src="./Revenue-and-profit-over-5-years.png" width="500" alt="Retail Sales Analysis Snapshot">
+  <img src="./Revenue-and-profit-over-5-years.png" width="700" alt="Retail Sales Analysis Snapshot">
 </p>
+                                                                
                                                                 Revenue & Profit Over Five Years  
 
 
