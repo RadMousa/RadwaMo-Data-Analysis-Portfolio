@@ -270,7 +270,11 @@ Understanding regional sales patterns can help businesses identify strong-perfor
 This project demonstrates my ability to prepare data, create relationships between datasets, and build interactive Power BI dashboards to explore sales trends and communicate insights.
 
 
+
+
 ### My World (MySQL) 
+
+
 
 ## Project Overview
 
