@@ -22,6 +22,7 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 
 ## Bikes and Retail Sales Analysis (Excel)
 
+
 ## Project Overview
 
 Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
@@ -117,15 +118,16 @@ These insights can help organisations identify high-performing markets, understa
 
 This project demonstrates my ability to clean and analyse data using Excel, apply formulas and PivotTables, and create visualisations and identify insights. 
 
+<br>
 
 
  
 
-## Spotify Listener Trends (via Tableau) 
+### Spotify Features (Tableau) 
 
 ## Project Overview 
 
-This project uses **Tableau** to analyse Spotify track data and explore trends in music popularity. 
+This project uses **Tableau** to analyse Spotify track data and analyse trends in music popularity. 
 
 The interactive dashboard allows users and stakeholders to explore the relationships between audio features and popularity, providing insights into factors that contribute to a tracks success. 
 
@@ -133,7 +135,7 @@ The interactive dashboard allows users and stakeholders to explore the relations
 ## Approach & Process
 
 * Importing and exploring the Spotify dataset.  
-* Applying aggregation functions using SUM() and AVG().  
+* Applying aggregation functions such as SUM() and AVG().  
 * Creating multiple worksheets to analyse different listener trends.  
 * Adding linear regression trend lines to identify correlations between variables.  
 * Building an interactive dashboard using filters and multiple visualisations.  
@@ -153,7 +155,7 @@ The interactive dashboard allows users and stakeholders to explore the relations
 
 Dashboard Visualisations 
 
-(Insert screenshots here) 
+(put screenshots here) 
 
 Genre Popularity  
 
@@ -194,8 +196,211 @@ The dashboard showed that Pop, Rap, and Rock were the most popular genres in the
 **Business relevance:**
 Understanding genre and artist performance can be used to support playlist curation, marketing and increase user engagement.  
 
- 
 
 ## Conclusion 
 
 This project demonstrates my ability to analyse large datasets, create visualisations tailored to specific data goals and draw insights and trends.  
+
+
+<br>
+
+
+### Retail Sales Dashboard (Power BI) 
+
+
+## Project Overview
+
+This project uses **Power BI** to analyse retail sales data and create an interactive dashboard that allows users and stakeholders to explore sales performance.
+
+
+## Approach & Process 
+
+* Importing the retail dataset into Power BI.  
+* Using Power Query to clean the data.  
+* checking data types and ensuring fields were in the correct format for analysis.    
+* Creating a relationship between the tables using Order ID as the common field.  
+* Building interactive dashboard to investigate sales performance.  
+* Adding filters and interactive features to allow users to investigate different areas of the data.
+
+
+## Main Techniques Used
+
+
+* Power Query – cleaning and preparing raw data before analysis.
+* Connecting tables – creating relationships between tables in the dataset to combine information.
+* Data preparation – checking columns, correcting formatting issues, and making the data ready for analysis.
+* Decomposition Tree – analysing sales drivers by breaking down revenue across categories, regions, segments, and countries.
+* Interactive dashboard – creating charts and using filters to create an interactive dashboard to identify insights.
+
+## Dataset 
+
+***Retail Sales Dataset** 
+
+*Source*: Provided via bootcamp
+
+The dataset contains 1,001 rows of retail transaction data, including information about sales, products, customers, and locations. 
+
+The data was spread across two tables: Order_Details and Order_Information 
+
+
+
+## Key Findings 
+
+
+## 1. Sales Drivers Analysis
+
+
+The Decomposition Tree helped identify which factors had the biggest impact on total sales by breaking results down by region, country, and customer segment. This made it easier to understand what was contributing most to overall revenue.
+
+*Business relevance:*
+
+This analysis helps businesses understand which areas are driving sales and where they may need to focus attention.
+
+
+## 2. Regional Sales Performance
+
+The dashboard showed clear differences in sales performance between regions, highlighting which locations generated the highest revenue.
+
+*Business relevance:*
+
+Understanding regional sales patterns can help businesses identify strong-performing areas and support decisions around sales and marketing activities.
+
+## Conclusion
+
+This project demonstrates my ability to prepare data, create relationships between datasets, and build interactive Power BI dashboards to explore sales trends and communicate insights.
+
+
+### My World (MySQL) 
+
+## Project Overview
+
+This project uses **SQL** to analyse the My World relational database and explore global population, geographical, and economic trends. 
+
+The analysis focused on:
+
+- Population comparisons between countries and cities.
+- Demographic trends such as population distribution and life expectancy.
+- Economic analysis including GDP per capita comparisons.
+- Identifying patterns within city and country data.
+
+
+## Approach & Process
+
+* Reviewing the database schema and table relationships.
+* Exploring the main tables: Country, City and CountryLanguage
+* Checking columns, data types, and available information.
+* Writing SQL queries to answer specific analysis questions.
+* Using filtering, grouping, aggregation, and sorting to analyse the data.
+* Reviewing query results to identify trends and patterns.
+
+## Main Techniques Used
+
+* Filtering data using WHERE clauses to extract specific records.  
+* Aggregating data using functions such as COUNT(), AVG(), and MAX().  
+* Grouping data using GROUP BY to compare results across categories.  
+* Sorting and ranking results using ORDER BY to identify highest and lowest values.  
+* Working with relational tables to analyse information across multiple tables.
+
+**Example SQL Analysis** 
+
+(put screenshots here) 
+
+Examples: 
+
+Average Population by Country  
+
+City Name Frequency Analysis  
+
+Countries with High GDP per Capita 
+
+
+## Dataset 
+
+***My World Database** 
+
+*Source*: Provided via bootcamp 
+
+The database contains global information in three relational tables: Country, city and CountryLanguage  
+
+
+
+## Key Findings  ( under construction) 
+
+
+
+
+### GDP Nominal Per Capita (Python)
+
+## Project Overview
+
+This project uses **Python** to clean, analyse, and visualise GDP Per Capita across different countries. 
+
+The project included:
+
+- Data cleaning and preparation.
+- Exploratory Data Analysis (EDA).
+- Correlation analysis.
+- Outlier detection.
+- Data visualisation and regression analysis.
+
+
+## Approach & Process
+
+* Uploading and exploring the dataset using **Pandas**.
+* Checking data types and identifying data quality issues.
+* Checking and correcting missing values, incorrect dates, and formatting problems.
+* Correcting invalid date values and converting them into missing values (`NaT`).
+* Removing extra spaces from text fields to improve consistency.
+* Preparing string fields for accurate filtering and analysis.
+* Using charts and summary numbers to find key trends in the data.
+* Finding outliers using the **Interquartile Range (IQR)** method.
+
+
+## Main Techniques Used
+
+
+
+* Importing Pandas to use for data cleaning and manipulation.  
+* Importing NumPy to use for numerical analysis and regression.  
+* Importing Matplotlib and Seaborn to use for data visualisation.  
+* Correlation analysis.  
+* Outlier detection using IQR.  
+* Linear regression.  
+
+(Insert screenshots of charts and notebook outputs here.) 
+
+ 
+## Dataset 
+
+***GDP Nominal Per Capita** 
+
+*Sources*: via bootcamp 
+
+
+## Key Findings ( under construction) 
+
+### 1. Comparing Economic Estimates Across Organisations
+
+
+The analysis showed a strong correlation (0.93) between GDP estimates from the United Nations (UN) and the World Bank. This indicates that both organisations showed very similar patterns within the dataset.
+
+*Business relevance:*
+
+Comparing data from different sources helps analysts check the consistency of information and understand how reliable the data is before using it for further analysis.
+
+
+
+ 2. **Identifying Economic Outliers**
+
+
+Using the Interquartile Range (IQR) method, I identified 23 countries with unusually high GDP per capita values, including Luxembourg, Ireland, and Singapore.
+
+*Business relevance:*
+
+Identifying outliers helps analysts understand unusual patterns in the data and investigate factors that may influence overall results.
+
+
+
+## Conclusion
+
+This project demonstrates my ability to use Python to clean, analyse, and visualise real-world economic data. Using **Pandas, NumPy, Matplotlib, and Seaborn**, I applied data cleaning, exploratory analysis, statistical techniques, and visualisation methods to turn raw data into useful insights.
