@@ -343,7 +343,11 @@ The database contains global information in three relational tables: Country, ci
 
 ## Key Findings  ( under construction) 
 
-<br>
+<p align="center">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/GNP-SQL.png " alt="Main Project Image" width="500">
+</p>
+
+ [View-image-of-GNP-SQL-Query](GNP-SQL.png) 
 
 
 
