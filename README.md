@@ -48,7 +48,10 @@ Throughout these two projects, I used Microsoft Excel to clean, analyse, and vis
 * Conditional formatting to highlight performance.  
 
 ### Project Screenshots
-![retailanalysis](excel-1.jpeg)
+<p align="center">
+  <img src="./Retail-sales .png" width="500" alt="Retail Sales Analysis Snapshot">
+</p>
+
 Retail Product Sales Analysis  
 
 
