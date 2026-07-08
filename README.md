@@ -22,7 +22,8 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 <br>
 
 
-## **Bikes and Retail Sales Analysis (Excel)**
+
+# Bikes and Retail Sales Analysis (Excel)
 
 
 ## Project Overview
@@ -210,7 +211,7 @@ This project demonstrates my ability to analyse large datasets, create visualisa
 <br>
 
 
-### Retail Sales Dashboard (Power BI) 
+# Retail Sales Dashboard (Power BI) 
 
 
 ## Project Overview
@@ -277,7 +278,7 @@ This project demonstrates my ability to prepare data, create relationships betwe
 
 
 
-### My World (MySQL) 
+# My World (MySQL) 
 
 
 
@@ -335,10 +336,11 @@ The database contains global information in three relational tables: Country, ci
 
 ## Key Findings  ( under construction) 
 
+<br>
 
 
 
-### GDP Nominal Per Capita (Python)
+# GDP Nominal Per Capita (Python)
 
 ## Project Overview
 
