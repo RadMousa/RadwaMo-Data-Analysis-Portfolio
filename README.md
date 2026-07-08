@@ -96,8 +96,8 @@ Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and
 
 ## Datasets 
 
-***Retail Sales Dataset**  
-***Bike Sales Dataset**  
+**Retail Sales Dataset**  
+**Bike Sales Dataset**  
 
 *Source*: Provided via bootcamp 
 
