@@ -100,7 +100,7 @@ The bike sales dataset contains 113,037 transactions, including customer demogra
 
 The retail analysis showed that clothing was the most frequently purchased product category by both male and female customers. However, despite having the highest purchase volume, clothing generated the lowest total sales, indicating a lower average selling price compared with other product categories. 
 
-Business relevance: 
+*Business relevance:* 
 
 Understanding purchasing behaviour helps organisations evaluate pricing strategies, product performance, and opportunities to improve profitability. 
 
@@ -108,7 +108,7 @@ Understanding purchasing behaviour helps organisations evaluate pricing strategi
 
 The bike sales analysis revealed strong revenue growth over five years, reaching a peak of $29.7 million in 2021. The United States generated the highest overall revenue, while adult customers accounted for half of all purchases, making them the largest customer group. 
 
-Business relevance: 
+*Business relevance:*
 
 These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies. 
 
