@@ -2,6 +2,8 @@
 Hi my name is Radwa,
 This is a data analysis portfolio of projects, that I built during my level 3 data analysis bootcamp. It demonstrates skills in data cleaning, analysis and visulisation using Excel, SQL, PowerBi, Tableau and Python. 
 <br>
+
+
 ## What I have learned.
 
 **Excel and data basics** – I used Excel for data cleaning, validation and formatting. Applied formulas such as XLOOKUP, IF statements and conditional formatting for analysis. Created pivot tables, pivot charts and dashboards for data visualisation. 
