@@ -22,12 +22,12 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 
 ## Bikes and Retail Sales Analysis (Excel)
 
-### Project Overview
+## Project Overview
 
 Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
 
 
-### Approach & Process 
+## Approach & Process 
 
 * Removing duplicates.  
 * Standardising dates and currency formats.  
@@ -38,7 +38,7 @@ Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and
 * Using conditional formatting to highlight key patterns and performance.  
 
 
-### Methods & Tools Used
+## Methods & Tools Used
 
 * Data cleaning and formatting.  
 * SUMIFS and AVERAGEIF functions.  
@@ -47,7 +47,7 @@ Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and
 * PivotCharts to visualise and analyse trends.  
 * Conditional formatting to highlight performance.  
 
-### Project Screenshots
+## Project Screenshots
 <p align="center">
   <img src="./Retail-sales .png" width="700" alt="Retail Sales Analysis Snapshot">
 </p>
@@ -81,7 +81,7 @@ Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and
 
  
 
-### Datasets 
+## Datasets 
 
 ***Retail Sales Dataset**  
 ***Bike Sales Dataset**  
@@ -93,7 +93,7 @@ The retail dataset contains 1,001 rows of customer, product, and sales informati
 The bike sales dataset contains 113,037 transactions, including customer demographics, product information, sales, costs, and revenue. 
 
 
-### Key Findings 
+## Key Findings 
 
 
 1. **Customer Purchasing Behaviour**
@@ -113,7 +113,7 @@ The bike sales analysis revealed strong revenue growth over five years, reaching
 These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies. 
 
 
-### Conclusion 
+## Conclusion 
 
 This project demonstrates my ability to clean and analyse data using Excel, apply formulas and PivotTables, and create visualisations and identify insights. 
 
