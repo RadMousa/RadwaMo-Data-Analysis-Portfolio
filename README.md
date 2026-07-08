@@ -19,10 +19,13 @@ visulisation using Excel, SQL, PowerBi, Tableau and Python.
 <br>
 
 **Python / Google Colab** – I learned how to use Python libraries such as pandas, NumPy, matplotlib and seaborn to perform data cleaning, aggregations and data visualisation.
+
 <br>
 
 
 # Projects I have completed.
+
+
 <br>
 
 
