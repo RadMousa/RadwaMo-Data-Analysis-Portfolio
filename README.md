@@ -20,14 +20,14 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 
 ## Projects I have completed.
 
-** Bikes and Retail Sales Analysis (Excel) *
+# Bikes and Retail Sales Analysis (Excel)
 
-* Project Overview *
+*Project Overview*
 
-Throughout these two project, I used Microsoft Excel to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
+Throughout these two projects, I used Microsoft Excel to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
 
 
-###** Approach & Process ** 
+### **Approach & Process** 
 
 * Removing duplicates.  
 * Standardising dates and currency formats.  
@@ -38,16 +38,16 @@ Throughout these two project, I used Microsoft Excel to clean, analyse, and visu
 * Using conditional formatting to highlight key patterns and performance.  
 
 
-### The main techniques were: 
+### **The main techniques were** 
 
-*Data cleaning and formatting.  
-*SUMIFS and AVERAGEIF functions.  
-*Calculated columns for revenue, cost, and profit.  
-*PivotTables to summarise data.  
-*PivotCharts to visualise and analyse trends.  
-*Conditional formatting to highlight performance.  
+* Data cleaning and formatting.  
+* SUMIFS and AVERAGEIF functions.  
+* Calculated columns for revenue, cost, and profit.  
+* PivotTables to summarise data.  
+* PivotCharts to visualise and analyse trends.  
+* Conditional formatting to highlight performance.  
 
-**Project Screenshots*
+**Project Screenshots**
 ![retailanalysis](excel-1.jpeg)
 Retail Product Sales Analysis  
 
