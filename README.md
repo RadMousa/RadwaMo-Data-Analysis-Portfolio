@@ -22,7 +22,7 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 <br>
 
 
-## Bikes and Retail Sales Analysis (Excel)
+## **Bikes and Retail Sales Analysis (Excel)**
 
 
 ## Project Overview
@@ -128,7 +128,7 @@ This project demonstrates my ability to clean and analyse data using Excel, appl
 
  
 
-### Spotify Features (Tableau) 
+# Spotify Features (Tableau) 
 
 ## Project Overview 
 
