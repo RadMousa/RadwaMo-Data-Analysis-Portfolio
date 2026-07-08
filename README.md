@@ -58,7 +58,7 @@ Throughout these two projects, I used Microsoft Excel to clean, analyse, and vis
   <img src="./Revenue-and-profit-over-5-years.png" width="700" alt="Retail Sales Analysis Snapshot">
 </p>
                                                                 
-                                                                Revenue & Profit Over Five Years  
+                                                               Revenue & Profit Over Five Years  
 
 
 <p align="center">
@@ -68,7 +68,16 @@ Throughout these two projects, I used Microsoft Excel to clean, analyse, and vis
                                                                
                                                                Revenue by Customer Age Group  
 
-Product Revenue by Country  
+
+
+
+
+<p align="center">
+  <img src="./product-revenue-by-country.png" width="700" alt="Retail Sales Analysis Snapshot">
+</p>
+
+
+                                                              Product Revenue by Country  
 
  
 
