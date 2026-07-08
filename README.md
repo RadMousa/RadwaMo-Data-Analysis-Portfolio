@@ -27,7 +27,7 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 Throughout these two projects, I used Microsoft Excel to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
 
 
-### **Approach & Process** 
+### Approach & Process 
 
 * Removing duplicates.  
 * Standardising dates and currency formats.  
