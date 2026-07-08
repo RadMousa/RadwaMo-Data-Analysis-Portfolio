@@ -52,14 +52,20 @@ Throughout these two projects, I used Microsoft Excel to clean, analyse, and vis
   <img src="./Retail-sales .png" width="500" alt="Retail Sales Analysis Snapshot">
 </p>
 
-                                                                  Retail Product Sales Analysis  
+                                                                Retail Product Sales Analysis  
 
 <p align="center">
   <img src="./Revenue-and-profit-over-5-years.png" width="500" alt="Retail Sales Analysis Snapshot">
-</p>Revenue-and-profit-over-5-years.png
-                                                                  Revenue & Profit Over Five Years  
+</p>
+                                                                Revenue & Profit Over Five Years  
 
-Revenue by Customer Age Group  
+
+<p align="center">
+  <img src="./Revenue-comparision-by-age.png" width="700" alt="Retail Sales Analysis Snapshot">
+</p>
+
+                                                               
+                                                               Revenue by Customer Age Group  
 
 Product Revenue by Country  
 
