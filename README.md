@@ -27,18 +27,18 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 Throughout these two project, I used Microsoft Excel to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
 
 
-###**Approach & Process** 
+###** Approach & Process ** 
 
-*Removing duplicates.  
-*Standardising dates and currency formats.  
-*Cleaning and organising the datasets.  
-*Applying Excel formulas to calculate business metrics.  
-*Creating PivotTables to summarise sales performance.  
-*Building PivotCharts to visualise trends.  
-*Using conditional formatting to highlight key patterns and performance.  
+* Removing duplicates.  
+* Standardising dates and currency formats.  
+* Cleaning and organising the datasets.  
+* Applying Excel formulas to calculate business metrics.  
+* Creating PivotTables to summarise sales performance.  
+* Building PivotCharts to visualise trends.  
+* Using conditional formatting to highlight key patterns and performance.  
 
 
-###The main techniques were: 
+### The main techniques were: 
 
 *Data cleaning and formatting.  
 *SUMIFS and AVERAGEIF functions.  
@@ -60,7 +60,7 @@ Product Revenue by Country
 
  
 
-###Datasets 
+### Datasets 
 
 *Retail Sales Dataset  
 *Bike Sales Dataset  
@@ -74,7 +74,7 @@ The bike sales dataset contains 113,037 transactions, including customer demogra
 Both datasets required cleaning and preparation before analysis to ensure accurate reporting and meaningful business insights. 
 
 
-###Key Findings 
+### Key Findings 
 
 
 1. Customer Purchasing Behaviour
@@ -94,6 +94,6 @@ Business relevance:
 These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies. 
 
  
-###Conclusion 
+### Conclusion 
 
 This project demonstrates my ability to clean and analyse data using Excel, apply formulas and PivotTables, and create visualisations and identify insights. 
