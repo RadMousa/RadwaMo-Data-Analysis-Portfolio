@@ -38,7 +38,7 @@ Throughout these two projects, I used Microsoft Excel to clean, analyse, and vis
 * Using conditional formatting to highlight key patterns and performance.  
 
 
-### **The main techniques were** 
+### The main techniques were
 
 * Data cleaning and formatting.  
 * SUMIFS and AVERAGEIF functions.  
@@ -47,7 +47,7 @@ Throughout these two projects, I used Microsoft Excel to clean, analyse, and vis
 * PivotCharts to visualise and analyse trends.  
 * Conditional formatting to highlight performance.  
 
-**Project Screenshots**
+### Project Screenshots
 ![retailanalysis](excel-1.jpeg)
 Retail Product Sales Analysis  
 
@@ -77,7 +77,7 @@ Both datasets required cleaning and preparation before analysis to ensure accura
 ### Key Findings 
 
 
-1. Customer Purchasing Behaviour
+1. **Customer Purchasing Behaviour**
 
 The retail analysis showed that clothing was the most frequently purchased product category by both male and female customers. However, despite having the highest purchase volume, clothing generated the lowest total sales, indicating a lower average selling price compared with other product categories. 
 
@@ -85,7 +85,7 @@ Business relevance:
 
 Understanding purchasing behaviour helps organisations evaluate pricing strategies, product performance, and opportunities to improve profitability. 
 
-2. Revenue Trends and Market Performance 
+2. **Revenue Trends and Market Performance** 
 
 The bike sales analysis revealed strong revenue growth over five years, reaching a peak of $29.7 million in 2021. The United States generated the highest overall revenue, while adult customers accounted for half of all purchases, making them the largest customer group. 
 
