@@ -5,20 +5,22 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 
 ## What I have learned.
 
-*Excel and data basics* – I used Excel for data cleaning, validation and formatting. Applied formulas such as XLOOKUP, IF statements and conditional formatting for analysis. Created pivot tables, pivot charts and dashboards for data visualisation. 
+**Excel and data basics** – I used Excel for data cleaning, validation and formatting. Applied formulas such as XLOOKUP, IF statements and conditional formatting for analysis. Created pivot tables, pivot charts and dashboards for data visualisation. 
 <br>
 
-*Power BI and Tableau / Dashboards* – I used Power Query, DAX and calculated fields to clean data and perform calculations. I also built interactive dashboards that identify patterns and show insights. 
+**Power BI and Tableau / Dashboards** – I used Power Query, DAX and calculated fields to clean data and perform calculations. I also built interactive dashboards that identify patterns and show insights. 
 <br>
 
 
-*SQL / MySQL Workbench* – I used WHERE, AND and OR to filter data, and applied aggregation functions such as GROUP BY and HAVING to analyse the data while joining tables. 
+**SQL / MySQL Workbench** – I used WHERE, AND and OR to filter data, and applied aggregation functions such as GROUP BY and HAVING to analyse the data while joining tables. 
 <br>
 
-*Python / Google Colab* – I learned how to use Python libraries such as pandas, NumPy, matplotlib and seaborn to perform data cleaning, aggregations and data visualisation.
+**Python / Google Colab** – I learned how to use Python libraries such as pandas, NumPy, matplotlib and seaborn to perform data cleaning, aggregations and data visualisation.
 
 
 # Projects I have completed.
+<br>
+
 
 ## Bikes and Retail Sales Analysis (Excel)
 
@@ -26,6 +28,7 @@ This is a data analysis portfolio of projects, that I built during my level 3 da
 ## Project Overview
 
 Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
+<br>
 
 
 ## Approach & Process 
@@ -37,6 +40,7 @@ Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and
 * Creating PivotTables to summarise sales performance.  
 * Building PivotCharts to visualise trends.  
 * Using conditional formatting to highlight key patterns and performance.  
+<br>
 
 
 ## Methods & Tools Used
@@ -47,8 +51,8 @@ Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and
 * PivotTables to summarise data.  
 * PivotCharts to visualise and analyse trends.  
 * Conditional formatting to highlight performance.  
+<br>
 
-## Project Screenshots
 <p align="center">
   <img src="./Retail-sales .png" width="700" alt="Retail Sales Analysis Snapshot">
 </p>
@@ -92,6 +96,7 @@ Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and
 The retail dataset contains 1,001 rows of customer, product, and sales information. 
 
 The bike sales dataset contains 113,037 transactions, including customer demographics, product information, sales, costs, and revenue. 
+<br>
 
 
 ## Key Findings 
