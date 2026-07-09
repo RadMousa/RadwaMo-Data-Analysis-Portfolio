@@ -342,6 +342,8 @@ This analysis helps businesses target the highest populated areas instead of ent
   <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/cities-with-new-%26population-SQL.png " alt="Main Project Image" width="500">
 </p>
 
+[view-image](cities-with-new-&population-SQL.png)
+
 2- 
 Counties like Luxembourg and Switzerland have a higher GNP compared to larger economies like the United States and Japan. 
 
@@ -352,7 +354,9 @@ Businesses can identify small but profitable markets where individual citizens h
   <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/Highest-GNP-SQL.png " alt="Main Project Image" width="500">
 </p>
 
- [View-image-of-GNP-SQL-Query](Highest-GNP-SQL.png) 
+
+
+ [View-image](Highest-GNP-SQL.png) 
 
 
 
