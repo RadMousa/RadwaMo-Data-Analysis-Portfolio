@@ -409,6 +409,7 @@ By comparing data from different global organizations, a business can make sure 
 <p align="center">
   <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/heatmap-python.png " alt="Main Project Image" width="500">
 </p>
+
 [View-heatmap](heatmap-python.png)
 
 
