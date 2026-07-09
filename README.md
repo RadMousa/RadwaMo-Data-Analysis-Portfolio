@@ -400,7 +400,7 @@ This project uses **Python** to clean, analyse, and visualise GDP Per Capita acr
 *Sources*: via bootcamp 
 
 
-## Key Findings ( under construction) 
+## Key Findings 
 
  1. **Comparing Economic Estimates Across Organisations**
 
