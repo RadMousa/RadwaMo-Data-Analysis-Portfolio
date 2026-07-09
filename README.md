@@ -91,9 +91,8 @@ The retail analysis showed that clothing was the most frequently purchased produ
 Understanding purchasing behaviour helps organisations evaluate pricing strategies, product performance, and opportunities to improve profitability. 
 
 <p align="center">
-  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/Retail-sale-excel.png" width="700" alt="Retail Sales Analysis Snapshot">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/Retail-sale-excel.png" alt="Retail-sales" width="700">
 </p>
-
 
 
 2. **Revenue Trends and Market Performance** 
