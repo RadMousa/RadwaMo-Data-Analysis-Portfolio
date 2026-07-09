@@ -1,6 +1,5 @@
-### Bikes and Retail Sales Analysis (Excel)
+### [![Excel](https://shields.io)](https://shields.io) Bikes and Retail Sales Analysis
 
-![](https://placeholder.com)
 
 
 
