@@ -318,17 +318,6 @@ The analysis focused on:
 * Sorting and ranking results using ORDER BY to identify highest and lowest values.  
 * Working with relational tables to analyse information across multiple tables.
 
-**Example SQL Analysis** 
-
-(put screenshots here) 
-
-Examples: 
-
-Average Population by Country  
-
-City Name Frequency Analysis  
-
-Countries with High GDP per Capita 
 
 
 ## Dataset 
@@ -341,13 +330,30 @@ The database contains global information in three relational tables: Country, ci
 
 
 
-## Key Findings  ( under construction) 
+## Key Findings  
+
+1- **Population Analysis** 
+New York City has the largest market with over 8 million residents, followed by New South Wales at 3 million and Newmaa at over five hundred thousand. 
+
+*Business Relevance:*
+This analysis helps businesses target the highest populated areas instead of entire countries, allowing for more effective marketing and logistics. 
 
 <p align="center">
-  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/GNP-SQL.png " alt="Main Project Image" width="500">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/cities-with-new-%26population-SQL.png " alt="Main Project Image" width="500">
 </p>
 
- [View-image-of-GNP-SQL-Query](GNP-SQL.png) 
+2- 
+Counties like Luxembourg and Switzerland have a higher GNP compared to larger economies like the United States and Japan. 
+
+*Business Relevance:*
+Businesses can identify small but profitable markets where individual citizens have more money to spend. 
+
+<p align="center">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/Highest-GNP-SQL.png " alt="Main Project Image" width="500">
+</p>
+
+ [View-image-of-GNP-SQL-Query](Highest-GNP-SQL.png) 
+
 
 
 
@@ -357,13 +363,6 @@ The database contains global information in three relational tables: Country, ci
 
 This project uses **Python** to clean, analyse, and visualise GDP Per Capita across different countries. 
 
-The project included:
-
-- Data cleaning and preparation.
-- Exploratory Data Analysis (EDA).
-- Correlation analysis.
-- Outlier detection.
-- Data visualisation and regression analysis.
 
 
 ## Approach & Process
@@ -381,15 +380,12 @@ The project included:
 ## Main Techniques Used
 
 
-
 * Importing Pandas to use for data cleaning and manipulation.  
 * Importing NumPy to use for numerical analysis and regression.  
 * Importing Matplotlib and Seaborn to use for data visualisation.  
 * Correlation analysis.  
 * Outlier detection using IQR.  
 * Linear regression.  
-
-(Insert screenshots of charts and notebook outputs here.) 
 
  
 ## Dataset 
@@ -401,15 +397,19 @@ The project included:
 
 ## Key Findings ( under construction) 
 
-### 1. Comparing Economic Estimates Across Organisations
+ 1. **Comparing Economic Estimates Across Organisations**
 
 
-The analysis showed a strong correlation (0.93) between GDP estimates from the United Nations (UN) and the World Bank. This indicates that both organisations showed very similar patterns within the dataset.
+The heatmap shows a nearly perfect match (0.93) between the United Nations and World Bank numbers, proving that both organizations report almost identical wealth patterns for these countries.
 
 *Business relevance:*
 
-Comparing data from different sources helps analysts check the consistency of information and understand how reliable the data is before using it for further analysis.
+By comparing data from different global organizations, a business can make sure the information is consistent and trustworthy before using it to make big investment decisions.
 
+<p align="center">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/heatmap-python.png " alt="Main Project Image" width="500">
+</p>
+[View-heatmap](heatmap-python.png)
 
 
  2. **Identifying Economic Outliers**
@@ -420,6 +420,12 @@ Using the Interquartile Range (IQR) method, I identified 23 countries with unusu
 *Business relevance:*
 
 Identifying outliers helps analysts understand unusual patterns in the data and investigate factors that may influence overall results.
+
+<p align="center">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/outliers-python.png " alt="Main Project Image" width="500">
+</p>
+
+ [View-image-of-GNP-SQL-Query](outliers-python.png) 
 
 
 
