@@ -1,8 +1,10 @@
-# RadwaMo-Data-Analysis-Portfolio
+# Data Analysis Portfolio
 
-Hi my name is Radwa,
-this is a data analysis portfolio of projects, that I built during my level 3 data analysis bootcamp. It demonstrates skills in data cleaning, analysis and 
-visulisation using Excel, SQL, PowerBi, Tableau and Python. 
+Hi, my name is Radwa.
+
+This is my data analysis portfolio, featuring projects I completed during my Level 3 Data Analysis Bootcamp. Throughout these projects, I developed practical experience in data cleaning, analysis, and visualisation using tools including Excel, SQL, Power BI, Tableau, and Python.
+
+The projects in this portfolio demonstrate my ability to work with data, identify patterns and trends, and create clear visualisations to help communicate insights and support decision-making.
 
 <br>
 
