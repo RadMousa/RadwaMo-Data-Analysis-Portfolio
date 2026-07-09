@@ -32,7 +32,7 @@ The projects in this portfolio demonstrate my ability to work with data, identif
 
 
 
-# Bikes and Retail Sales Analysis (Excel)
+# [Bikes and Retail Sales Analysis (Excel)](Excel)
 
 
 ## Project Overview
