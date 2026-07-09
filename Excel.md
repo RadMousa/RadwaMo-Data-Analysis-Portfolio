@@ -1,5 +1,6 @@
 ### Bikes and Retail Sales Analysis (Excel)
----
+<div style="background-color: #0076FF; height: 3px; width: 100%;"></div>
+
 
 
 
