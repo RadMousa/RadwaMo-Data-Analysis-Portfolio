@@ -1,5 +1,5 @@
 ### Bikes and Retail Sales Analysis (Excel)
-$$\color{blue}\rule{\linewidth}{2pt}$$
+---
 
 
 
