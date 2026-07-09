@@ -74,13 +74,10 @@ Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and
                                                                Revenue & Profit Over Five Years  
 
 
-<p align="center">
-  <img src="./Revenue-comparision-by-age.png" width="700" alt="Retail Sales Analysis Snapshot">
-</p>
 
-                                                               
-                                                               Revenue by Customer Age Group  
 
+   [Renvene-by-agegroup](Revenue-comparision-by-age.png)                                                         
+                                                             
 
 
 
