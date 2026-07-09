@@ -61,35 +61,8 @@ Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and
 * Conditional formatting to highlight performance.  
 <br>
 
-<p align="center">
-  <img src="./Retail-sales .png" width="700" alt="Retail Sales Analysis Snapshot">
-</p>
-
-                                                                Retail Product Sales Analysis  
-
-<p align="center">
-  <img src="./Revenue-and-profit-over-5-years.png" width="700" alt="Retail Sales Analysis Snapshot">
-</p>
-                                                                
-                                                               Revenue & Profit Over Five Years  
-
-
-
-
-   [Renvene-by-agegroup](Revenue-comparision-by-age.png)                                                         
-                                                             
-
-
-
-
-<p align="center">
-  <img src="./product-revenue-by-country.png" width="700" alt="Retail Sales Analysis Snapshot">
-</p>
-
-
-                                                              Product Revenue by Country  
-
- 
+                                                     
+                                                              
 
 ## Datasets 
 
@@ -115,6 +88,12 @@ The retail analysis showed that clothing was the most frequently purchased produ
 
 Understanding purchasing behaviour helps organisations evaluate pricing strategies, product performance, and opportunities to improve profitability. 
 
+<p align="center">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/Retail-sale-excel.png" width="700" alt="Retail Sales Analysis Snapshot">
+</p>
+
+
+
 2. **Revenue Trends and Market Performance** 
 
 The bike sales analysis revealed strong revenue growth over five years, reaching a peak of $29.7 million in 2021. The United States generated the highest overall revenue, while adult customers accounted for half of all purchases, making them the largest customer group. 
@@ -122,6 +101,16 @@ The bike sales analysis revealed strong revenue growth over five years, reaching
 *Business relevance:*
 
 These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies. 
+
+
+<p align="center">
+  <img src="./Revenue-and-profit-over-5-years.png" width="700" alt="Retail Sales Analysis Snapshot">
+</p>
+
+
+[Revenue-by-country](product-revenue-by-country.png)
+
+[Revenue-by-age-group](Revenue-comparision-by-age.png)    
 
 
 ## Conclusion 
@@ -161,22 +150,6 @@ The interactive dashboard allows users and stakeholders to explore the relations
 * Interactive filters to explore different areas of the dataset.  
 * Interactive dashboard design using multiple worksheets. 
 
-
-
-Dashboard Visualisations 
-
-(put screenshots here) 
-
-Genre Popularity  
-
-Track Characteristics by Genre  
-
-Average Popularity vs Average Danceability  
-
-Popularity by Artist  
-
-Popularity Based on Track Duration  
-
  
 
 ## Dataset 
@@ -205,6 +178,8 @@ The dashboard showed that Pop, Rap, and Rock were the most popular genres in the
 
 **Business relevance:**
 Understanding genre and artist performance can be used to support playlist curation, marketing and increase user engagement.  
+
+(Dashboard Visulisation)
 
 
 ## Conclusion 
@@ -275,6 +250,9 @@ The dashboard showed clear differences in sales performance between regions, hig
 
 Understanding regional sales patterns can help businesses identify strong-performing areas and support decisions around sales and marketing activities.
 
+(dashboard visulisation)
+
+
 ## Conclusion
 
 This project demonstrates my ability to prepare data, create relationships between datasets, and build interactive Power BI dashboards to explore sales trends and communicate insights.
@@ -339,7 +317,6 @@ This analysis helps businesses target the highest populated areas instead of ent
   <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/cities-with-new-%26population-SQL.png " alt="Main Project Image" width="500">
 </p>
 
-[view-image](cities-with-new-&population-SQL.png)
 
 2- 
 Counties like Luxembourg and Switzerland have a higher GNP compared to larger economies like the United States and Japan. 
@@ -352,8 +329,6 @@ Businesses can identify small but profitable markets where individual citizens h
 </p>
 
 
-
- [View-image](Highest-GNP-SQL.png) 
 
 
 
