@@ -1,7 +1,6 @@
-### [![Excel](https://shields.io)](https://shields.io) Bikes and Retail Sales Analysis
+### 📊 Bikes and Retail Sales Analysis (Excel)
 
-
-
+<br>
 
 
 
