@@ -316,7 +316,7 @@ New York City has the largest market with over 8 million residents, followed by 
 This analysis helps businesses target the highest populated areas instead of entire countries, allowing for more effective marketing and logistics. 
 
 <p align="center">
-  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/cities-with-new-%26population-SQL.png " alt="Main Project Image" width="500">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/cities-with-new-%26population-SQL.png" alt="Main Project Image" width="500">
 </p>
 
 
@@ -327,7 +327,7 @@ Counties like Luxembourg and Switzerland have a higher GNP compared to larger ec
 Businesses can identify small but profitable markets where individual citizens have more money to spend. 
 
 <p align="center">
-  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/Highest-GNP-SQL.png " alt="Main Project Image" width="500">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/Highest-GNP-SQL.png" alt="Main Project Image" width="500">
 </p>
 
 
@@ -386,10 +386,10 @@ The heatmap shows a nearly perfect match (0.93) between the United Nations and W
 By comparing data from different global organizations, a business can make sure the information is consistent and trustworthy before using it to make big investment decisions.
 
 <p align="center">
-  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/heatmap-python.png " alt="Main Project Image" width="500">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/heatmap-python.png" alt="Main Project Image" width="500">
 </p>
 
-[View-heatmap](heatmap-python.png)
+
 
 
  2. **Identifying Economic Outliers**
@@ -402,10 +402,8 @@ Using the Interquartile Range (IQR) method, I identified 23 countries with unusu
 Identifying outliers helps analysts understand unusual patterns in the data and investigate factors that may influence overall results.
 
 <p align="center">
-  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/outliers-python.png " alt="Main Project Image" width="500">
+  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/outliers-python.png" alt="Main Project Image" width="500">
 </p>
-
- [View-image-of-GNP-SQL-Query](outliers-python.png) 
 
 
 
