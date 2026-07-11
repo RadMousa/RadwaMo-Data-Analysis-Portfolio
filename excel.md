@@ -47,14 +47,24 @@ I also used the **YEAR()**, **MONTH()**, and **DAY()** functions to extract the 
 
 Creating separate date fields made it easier to analyse sales trends over time using PivotTables and PivotCharts.
 
-<img width="1486" height="821" alt="Screenshot 2026-07-10 160611" src="https://github.com/user-attachments/assets/6ac42521-ee5d-4a12-a26bc-1206bf039bdf" />
+<p align="center">
+  <img src="original-retail.png" width="700">
+</p>
+                                                          This is the raw Retail dataset.    
+
 
 <p align="center">
-  <img src="YOUR-IMAGE-LINK-HERE" width="700">
+  <img src="day().png" width="700">
 </p>
-[original-dataset]
-[used=day-function]
-[correct-dates]
+                                                        Here I used the DAY () function, to return the day of the month.   
+
+
+                
+<p align="center">
+  <img src="DATE .png" width="700">
+</p>
+                                                       I changed the column format to Date so the values display correctly.                                                      
+                                                          
 ---
 
 # 🔹 Analysis
