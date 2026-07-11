@@ -37,7 +37,7 @@ The following data preparation steps were completed:
 | Visualisation | Building PivotCharts to identify trends |
 | Quality Checks | Using conditional formatting to highlight key patterns |
 
----
+
 
 # 🔹 Data Formatting and Transformation
 
@@ -47,6 +47,14 @@ I also used the **YEAR()**, **MONTH()**, and **DAY()** functions to extract the 
 
 Creating separate date fields made it easier to analyse sales trends over time using PivotTables and PivotCharts.
 
+<img width="1486" height="821" alt="Screenshot 2026-07-10 160611" src="https://github.com/user-attachments/assets/6ac42521-ee5d-4a12-a26bc-1206bf039bdf" />
+
+<p align="center">
+  <img src="YOUR-IMAGE-LINK-HERE" width="700">
+</p>
+[original-dataset]
+[used=day-function]
+[correct-dates]
 ---
 
 # 🔹 Analysis
