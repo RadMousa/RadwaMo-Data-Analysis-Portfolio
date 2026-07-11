@@ -27,7 +27,7 @@ The database contains global information stored across three related tables, ena
 
 ---
 
-## 🔹 Approach & Process
+## 🔹 Data Preparation
 
 The following steps were completed during the analysis:
 
@@ -41,7 +41,7 @@ The following steps were completed during the analysis:
 
 ---
 
-## 🔹 SQL Techniques Used
+## 🔹 Analysis
 
 The analysis involved:
 
@@ -51,6 +51,27 @@ The analysis involved:
 - Sorting data using `ORDER BY`
 - Working with relational tables to analyse connected data
 - Comparing countries, cities, and economic indicators
+
+<p align="center">
+  <img src="WHERE-population-is-bigger-than-avg.png" alt="SQL query" width="800">
+  <br>
+  <em>Population is greater than average population of all cities</em>
+</p>
+
+I used the WHERE clause to return all the cities that have a population that is bigger than the average population of all the cities, 
+
+<p align="center">
+  <img src="country-highest-lifeexpectancy.png" alt="ORDER BY SQL query" width="800">
+  <br>
+  <em>Country with highest life expectancy</em>
+</p>
+
+I used the ORDER BY clause in this query to return the country with the highest life expectancy, 
+
+
+
+
+
 
 ---
 
@@ -64,7 +85,6 @@ The results showed that:
 - **New South Wales** followed with approximately **3 million** residents.
 - **Newmaa** had a population of over **500,000** residents.
 
-### Query Result
 
 ![Population Analysis](images/population-analysis.png)
 
@@ -80,7 +100,6 @@ I compared countries using **Gross National Product (GNP)** and other economic i
 
 The analysis showed that countries such as **Luxembourg** and **Switzerland** have significantly higher GNP per capita than much larger economies, including the **United States** and **Japan**.
 
-### Query Result
 
 ![Economic Analysis](images/economic-analysis.png)
 
