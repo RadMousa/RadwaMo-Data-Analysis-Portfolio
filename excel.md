@@ -88,15 +88,32 @@ I created a product performance summary table to analyse sales performance and c
 
 The table included **total sales, customer purchases by gender, and average sales per product**.
 
+
+<p align="center">
+  <img src="AverageIF-excel.png" width="500">
+</p>
+
+<p align="center">
+  <img src="SUMIF-excel.png" width="500">
+</p>
+
+
 I used **SUMIF()**, **SUMIFS()**, and **AVERAGEIF()** to calculate sales metrics based on different criteria and applied conditional formatting to highlight higher and lower performing products.
 
 This helped identify differences in product performance and purchasing patterns.
+
 
 ---
 
 ## Creating Age Categories
 
 The original dataset had a numerical age column, I created an age category column using the **IFS()** function to group customers into Young Adults, Adults, and Seniors.
+
+
+<p align="center">
+  <img src="Age-category-excel.png" width="500">
+</p>
+
 
 This made it easier to compare sales across different age groups in PivotTables and charts.
 
@@ -107,6 +124,11 @@ This made it easier to compare sales across different age groups in PivotTables 
 The original dataset did not contain a commission value, so I created a new Commission column to calculate the commission earned on each sale.
 
 I calculated this by multiplying the Total Sales value by the commission rate of **1.5%**.
+
+<p align="center">
+  <img src="calculatedcolumn-excel.png" width="500">
+</p>
+
 
 ---
 
