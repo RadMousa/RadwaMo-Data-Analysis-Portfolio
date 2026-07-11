@@ -90,11 +90,11 @@ The table included **total sales, customer purchases by gender, and average sale
 
 
 <p align="center">
-  <img src="AverageIF-excel.png" width="500">
+  <img src="AverageIF-excel.png" width="700">
 </p>
 
 <p align="center">
-  <img src="SUMIF-excel.png" width="500">
+  <img src="SUMIF-excel.png" width="700">
 </p>
 
 
@@ -111,7 +111,7 @@ The original dataset had a numerical age column, I created an age category colum
 
 
 <p align="center">
-  <img src="Age-category-excel.png" width="500">
+  <img src="Age-category-excel.png" width="700">
 </p>
 
 
@@ -126,7 +126,7 @@ The original dataset did not contain a commission value, so I created a new Comm
 I calculated this by multiplying the Total Sales value by the commission rate of **1.5%**.
 
 <p align="center">
-  <img src="calculatedcolumn-excel.png" width="500">
+  <img src="calculatedcolumn-excel.png" width="700">
 </p>
 
 
@@ -138,7 +138,13 @@ I calculated this by multiplying the Total Sales value by the commission rate of
 
 I created a PivotTable to summarise annual revenue and profit from **2017 to 2021**.
 
+<p align="center">
+  <img src="Revenue-and-profit-over-5-years.png" width="700">
+</p>
+
 The data was grouped by year and displayed in a PivotChart to show revenue and profit trends over time, making it easier to identify overall business growth.
+
+
 
 ---
 
@@ -146,7 +152,17 @@ The data was grouped by year and displayed in a PivotChart to show revenue and p
 
 ## Project Dashboards
 
-_Add Excel dashboards and visualisations here_
+<p align="center">
+  <img src="Revenue-comparision-by-age.png" width="700">
+</p>
+
+This is the pivot table and chart comparing revenue by Age group.
+
+<p align="center">
+  <img src="product-revenue-by-country.png" width="700">
+</p>
+
+This pivot table and chart compare product revenue by country. 
 
 ---
 
