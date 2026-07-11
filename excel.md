@@ -1,12 +1,16 @@
-# Excel Sales Data Analysis Project
-
-## Project Overview
-
-Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
+# 📊 Excel Sales Data Analysis Project
 
 ---
 
-## Datasets
+## 🔹 Project Overview
+
+Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and visualise retail and bike sales data.
+
+The aim was to transform sales data into insights by analysing **customer behaviour, product performance, and revenue trends**.
+
+---
+
+## 🔹 Datasets
 
 ### Retail Sales Dataset
 
@@ -20,21 +24,22 @@ The bike sales dataset contains **113,037 transactions**, including customer dem
 
 ---
 
-# Data Preparation
+# 🔹 Data Preparation
 
 The following data preparation steps were completed:
 
-- Removed duplicates.
-- Standardised dates and currency formats.
-- Cleaned and organised the datasets.
-- Applied Excel formulas to calculate business metrics.
-- Created PivotTables to summarise sales performance.
-- Built PivotCharts to visualise trends.
-- Used conditional formatting to highlight key patterns and performance.
+| Process | Description |
+|---|---|
+| Data Cleaning | Removing duplicates and organising datasets |
+| Data Formatting | Standardising dates and currency formats |
+| Data Calculations | Applying Excel formulas to calculate business metrics |
+| Data Analysis | Creating PivotTables to summarise sales performance |
+| Visualisation | Building PivotCharts to identify trends |
+| Quality Checks | Using conditional formatting to highlight key patterns |
 
 ---
 
-# Data Formatting and Transformation
+# 🔹 Data Formatting and Transformation
 
 The original Date column displayed Excel serial numbers instead of a date, so I changed the format of the Date column to **“Date”** to allow the dates values to be displayed correctly.
 
@@ -44,26 +49,26 @@ Creating separate date fields made it easier to analyse sales trends over time u
 
 ---
 
-# Analysis
+# 🔹 Analysis
 
 The analysis involved:
 
-- Data cleaning and formatting.
-- Using **SUMIFS** and **AVERAGEIF** functions.
-- Creating calculated columns for revenue, cost, and profit.
-- Building PivotTables to summarise data.
-- Creating PivotCharts to visualise and analyse trends.
-- Applying conditional formatting to highlight performance.
+- **Data cleaning and formatting**
+- **SUMIFS and AVERAGEIF functions**
+- **Calculated columns for revenue, cost, and profit**
+- **PivotTables to summarise data**
+- **PivotCharts to visualise and analyse trends**
+- **Conditional formatting to highlight performance**
 
 ---
 
-# Retail Dataset Analysis
+# 🟦 Retail Dataset Analysis
 
 ## Product Performance Analysis
 
 I created a product performance summary table to analyse sales performance and customer purchasing behaviour.
 
-The table included total sales, customer purchases by gender, and average sales per product.
+The table included **total sales, customer purchases by gender, and average sales per product**.
 
 I used **SUMIF()**, **SUMIFS()**, and **AVERAGEIF()** to calculate sales metrics based on different criteria and applied conditional formatting to highlight higher and lower performing products.
 
@@ -73,9 +78,9 @@ This helped identify differences in product performance and purchasing patterns.
 
 ## Creating Age Categories
 
-The original dataset contained a numerical age column. I created an age category column using the **IFS()** function to group customers into Young Adults, Adults, and Seniors.
+The original dataset had a numerical age column, I created an age category column using the **IFS()** function to group customers into Young Adults, Adults, and Seniors.
 
-This made it easier to compare sales across different age groups using PivotTables and charts.
+This made it easier to compare sales across different age groups in PivotTables and charts.
 
 ---
 
@@ -87,7 +92,7 @@ I calculated this by multiplying the Total Sales value by the commission rate of
 
 ---
 
-# Bike Sales Dataset Analysis
+# 🟦 Bike Sales Dataset Analysis
 
 ## Revenue and Profit Trend Analysis
 
@@ -97,15 +102,15 @@ The data was grouped by year and displayed in a PivotChart to show revenue and p
 
 ---
 
-# Visualisation
+# 📈 Visualisation
 
 ## Project Dashboards
 
-(Add Excel dashboards and visualisations here)
+_Add Excel dashboards and visualisations here_
 
 ---
 
-# Key Findings
+# 🔹 Key Findings
 
 ## 1. Customer Purchasing Behaviour
 
@@ -113,8 +118,8 @@ The retail analysis showed that clothing was the most frequently purchased produ
 
 However, despite having the highest purchase volume, clothing generated the lowest total sales, indicating a lower average selling price compared with other product categories.
 
-**Business relevance:**  
-Understanding purchasing behaviour helps organisations evaluate pricing strategies, product performance, and opportunities to improve profitability.
+> **Business relevance:**  
+> Understanding purchasing behaviour helps organisations evaluate pricing strategies, product performance, and opportunities to improve profitability.
 
 ---
 
@@ -124,12 +129,11 @@ The bike sales analysis revealed strong revenue growth over five years, reaching
 
 The United States generated the highest overall revenue, while adult customers accounted for half of all purchases, making them the largest customer group.
 
-**Business relevance:**  
-
-These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies.
+> **Business relevance:**  
+> These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies.
 
 ---
 
-# Conclusion
+# ✅ Conclusion
 
-This project demonstrates my ability to clean and analyse data using Excel, apply formulas and PivotTables, create visualisations, and identify meaningful business insights.
+This project demonstrates my ability to clean and analyse data using **Excel**, apply formulas and PivotTables, create visualisations, and identify meaningful business insights.
