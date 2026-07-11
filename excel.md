@@ -1,16 +1,16 @@
-# 📊 Excel Sales Data Analysis Portfolio Project
+# Excel Sales Data Analysis Project
 
-## 🌟 Project Overview
+## Project Overview
 
 Throughout these two projects, I used **Microsoft Excel** to clean, analyse, and visualise retail and bike sales data. The aim was to transform sales data into insights by analysing customer behaviour, product performance, and revenue trends.
 
 ---
 
-# 📂 Datasets
+## Datasets
 
-## 🛒 Retail Sales Dataset
+### Retail Sales Dataset
 
-## 🚲 Bike Sales Dataset
+### Bike Sales Dataset
 
 **Source:** Provided via bootcamp
 
@@ -20,21 +20,21 @@ The bike sales dataset contains **113,037 transactions**, including customer dem
 
 ---
 
-# 🧹 Data Preparation
+# Data Preparation
 
-The following steps were completed to prepare the datasets for analysis:
+The following data preparation steps were completed:
 
-✅ Removing duplicates.  
-✅ Standardising dates and currency formats.  
-✅ Cleaning and organising the datasets.  
-✅ Applying Excel formulas to calculate business metrics.  
-✅ Creating PivotTables to summarise sales performance.  
-✅ Building PivotCharts to visualise trends.  
-✅ Using conditional formatting to highlight key patterns and performance.  
+- Removed duplicates.
+- Standardised dates and currency formats.
+- Cleaned and organised the datasets.
+- Applied Excel formulas to calculate business metrics.
+- Created PivotTables to summarise sales performance.
+- Built PivotCharts to visualise trends.
+- Used conditional formatting to highlight key patterns and performance.
 
 ---
 
-# 🔄 Data Formatting and Transformation
+# Data Formatting and Transformation
 
 The original Date column displayed Excel serial numbers instead of a date, so I changed the format of the Date column to **“Date”** to allow the dates values to be displayed correctly.
 
@@ -44,22 +44,22 @@ Creating separate date fields made it easier to analyse sales trends over time u
 
 ---
 
-# 🔍 Analysis
+# Analysis
 
-The analysis included:
+The analysis involved:
 
 - Data cleaning and formatting.
-- SUMIFS and AVERAGEIF functions.
-- Calculated columns for revenue, cost, and profit.
-- PivotTables to summarise data.
-- PivotCharts to visualise and analyse trends.
-- Conditional formatting to highlight performance.
+- Using **SUMIFS** and **AVERAGEIF** functions.
+- Creating calculated columns for revenue, cost, and profit.
+- Building PivotTables to summarise data.
+- Creating PivotCharts to visualise and analyse trends.
+- Applying conditional formatting to highlight performance.
 
 ---
 
-# 🛒 Retail Dataset
+# Retail Dataset Analysis
 
-## 📦 Product Performance Analysis
+## Product Performance Analysis
 
 I created a product performance summary table to analyse sales performance and customer purchasing behaviour.
 
@@ -71,15 +71,15 @@ This helped identify differences in product performance and purchasing patterns.
 
 ---
 
-## 👥 Creating Age Categories
+## Creating Age Categories
 
-The original dataset had a numerical age column, I created an age category column using the **IFS()** function to group customers into Young Adults, Adults, and Seniors.
+The original dataset contained a numerical age column. I created an age category column using the **IFS()** function to group customers into Young Adults, Adults, and Seniors.
 
-This made it easier to compare sales across different age groups in PivotTables and charts.
+This made it easier to compare sales across different age groups using PivotTables and charts.
 
 ---
 
-## 💰 Creating Calculated Columns
+## Creating Calculated Columns
 
 The original dataset did not contain a commission value, so I created a new Commission column to calculate the commission earned on each sale.
 
@@ -87,27 +87,27 @@ I calculated this by multiplying the Total Sales value by the commission rate of
 
 ---
 
-# 🚲 Bike Sales Dataset
+# Bike Sales Dataset Analysis
 
-## 📈 Revenue and Profit Trend Analysis
+## Revenue and Profit Trend Analysis
 
-I created a PivotTable to summarise annual revenue and profit from 2017 to 2021.
+I created a PivotTable to summarise annual revenue and profit from **2017 to 2021**.
 
 The data was grouped by year and displayed in a PivotChart to show revenue and profit trends over time, making it easier to identify overall business growth.
 
 ---
 
-# 📊 Visualisation
+# Visualisation
 
-## Images
+## Project Dashboards
 
-(Add project dashboard images here)
+(Add Excel dashboards and visualisations here)
 
 ---
 
-# 💡 Key Findings
+# Key Findings
 
-## 1️⃣ Customer Purchasing Behaviour
+## 1. Customer Purchasing Behaviour
 
 The retail analysis showed that clothing was the most frequently purchased product category by both male and female customers.
 
@@ -118,7 +118,7 @@ Understanding purchasing behaviour helps organisations evaluate pricing strategi
 
 ---
 
-## 2️⃣ Revenue Trends and Market Performance
+## 2. Revenue Trends and Market Performance
 
 The bike sales analysis revealed strong revenue growth over five years, reaching a peak of **$29.7 million in 2021**.
 
@@ -130,6 +130,6 @@ These insights can help organisations identify high-performing markets, understa
 
 ---
 
-# ✅ Conclusion
+# Conclusion
 
-This project demonstrates my ability to clean and analyse data using Excel, apply formulas and PivotTables, and create visualisations and identify insights.
+This project demonstrates my ability to clean and analyse data using Excel, apply formulas and PivotTables, create visualisations, and identify meaningful business insights.
