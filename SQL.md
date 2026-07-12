@@ -89,7 +89,7 @@ The results showed that:
 - **New York City** had the largest population, with over **8 million** residents.
 - **New South Wales** followed with approximately **3 million** residents.
 - **Newmaa** had a population of over **500,000** residents.
-- 
+  
 <p align="center">
   <img src="cities-with-new-&population-SQL.png" alt="Description of image" width="700">
   <br>
