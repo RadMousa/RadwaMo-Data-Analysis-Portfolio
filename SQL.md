@@ -1,8 +1,8 @@
-# My World (MySQL)
+# World (MySQL)
 
 ## 🔹 Project Overview
 
-This project uses **MySQL** to analyse the **My World** relational database and explore global population, geographical, and economic trends.
+This project uses **MySQL** to analyse the **World** relational database and explore global population, geographical, and economic trends.
 
 The analysis focused on:
 
@@ -15,7 +15,7 @@ The analysis focused on:
 
 ## 🔹 Dataset
 
-**My World Database**
+**World Database**
 
 - **Source:** Provided via bootcamp
 - **Database Tables:**
@@ -67,10 +67,6 @@ I used the WHERE clause to return all the cities that have a population that is 
 </p>
 
 I used the ORDER BY clause in this query to return the country with the highest life expectancy, 
-
-
-
-
 
 
 ---
