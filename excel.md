@@ -138,33 +138,14 @@ I calculated this by multiplying the Total Sales value by the commission rate of
 
 ## Revenue and Profit Trend Analysis
 
-I created a PivotTable to summarise annual revenue and profit from **2017 to 2021**.
-
-<p align="center">
-  <img src="Revenue-and-profit-over-5-years.png" width="700">
-</p>
-
-The data was grouped by year and displayed in a PivotChart to show revenue and profit trends over time, making it easier to identify overall business growth.
-
-
-
----
-
-# 📈 Visualisation
-
-## Project Dashboards
+I created a PivotTable and chart to compare revenue by age group. 
 
 <p align="center">
   <img src="Revenue-comparision-by-age.png" width="700">
 </p>
 
-This is the pivot table and chart comparing revenue by Age group.
+The chart shows that Adults (35-64) make up the largest customer segment and they are responsible for half of the overall revenue. The senior age group make up less than 1% of total revenue. 
 
-<p align="center">
-  <img src="product-revenue-by-country.png" width="700">
-</p>
-
-This pivot table and chart compare product revenue by country. 
 
 ---
 
@@ -176,6 +157,12 @@ The retail analysis showed that clothing was the most frequently purchased produ
 
 However, despite having the highest purchase volume, clothing generated the lowest total sales, indicating a lower average selling price compared with other product categories.
 
+<p align="center">
+  <img src="quantity- table -excel.png" width="700">
+  <br>
+  <em> Quantity Table.</em>
+</p>
+
 > **Business relevance:**  
 > Understanding purchasing behaviour helps organisations evaluate pricing strategies, product performance, and opportunities to improve profitability.
 
@@ -184,8 +171,21 @@ However, despite having the highest purchase volume, clothing generated the lowe
 ## 2. Revenue Trends and Market Performance
 
 The bike sales analysis revealed strong revenue growth over five years, reaching a peak of **$29.7 million in 2021**.
+The **United States** generated the highest overall revenue at **$30 million** and **Canada** has the lowest overall revenue at **$8 million** 
 
-The United States generated the highest overall revenue, while adult customers accounted for half of all purchases, making them the largest customer group.
+The United States generated the highest overall revenue.
+<p align="center">
+  <img src="Revenue-and-profit-over-5-years.png" width="700">
+  <br>
+  <em> Revenue over the next five years.</em>
+</p>
+
+
+<p align="center">
+  <img src="product-revenue-by-country.png" width="700">
+  <br>
+  <em> Product Revenue by Country.</em>
+</p>
 
 > **Business relevance:**  
 > These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies.
