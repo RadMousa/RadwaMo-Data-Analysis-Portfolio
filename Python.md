@@ -1,48 +1,89 @@
-# GDP Nominal Per Capita (Python)
+# 🐍 PythonGDP Nominal Per Capita (Python)
 
-## Project Overview - [Click-here-to-see-Colab-page](https://colab.research.google.com/drive/15DomvHb9vWH_qhxbvpMkcTWZboUc6PMq#scrollTo=o00VsTI2dAoe)
+---
 
+## 🔹 Project Overview - [Click-here-to-see-Colab-page](https://colab.research.google.com/drive/15DomvHb9vWH_qhxbvpMkcTWZboUc6PMq#scrollTo=o00VsTI2dAoe)
 
 This project uses **Python** to clean, analyse, and visualise GDP Per Capita across different countries. 
 
-## Dataset 
+---
 
-***GDP Nominal Per Capita** 
+## 🔹 Dataset 
 
-*Sources*: via bootcamp 
+### GDP Nominal Per Capita
+
+**Sources**: via bootcamp 
+
+---
+
+# 🔹 Data Preparation
+
+The following data preparation steps were completed:
+
+| Process | Description |
+|----------|-------------|
+| Data Import | Loaded and explored the dataset using **Pandas**. |
+| Data Inspection | checked data types and identified data quality issues. |
+| Missing Data | Checked for and handled missing values. |
+| Date Cleaning | Corrected invalid dates and converted them to `NaT`. |
+| Text Cleaning | Removed extra spaces and prepared string fields for analysis. |
+| Data Preparation | Prepared the dataset for analysis and filtering. |
+| Data Analysis | Used charts and calculations to analyse the data. |
+| Identifying Outlier  | Found outliers using the **Interquartile Range (IQR)** method. |
+
+---
+
+## 🔹 Analysis
+
+The analysis involved:
+
+- Using Pandas to clean and manipulate the data.
+- Using NumPy for numerical calculations.
+- Creating visualisations with Matplotlib and Seaborn.
+- Analysing relationships between variables.
+- Identifying outliers using the IQR method.
+- Applying linear regression.
+
+<p align="center">
+  <img src="importing in python.png" alt="importing libaries into python" width="700">
+  <br>
+  <em>Importing libaries in Python </em>
+</p>
+
+Here Pandas, Numpy, Matplotlib and Seaborn were imported into python to use for analysis and visulisation
+
+<p align="center">
+  <img src="checking data types python.png" alt="validating data types" width="700">
+  <br>
+  <em> Checking data types </em>
+</p>
+
+This code displays the data type of each column within the dataframe. This is to ensure all the fields are correctly formatted for analysis. 
+
+<p align="center">
+  <img src="formatting date time python.png" alt="formatted datetime" width="700">
+  <br>
+  <em> Formatting DateTime </em>
+</p>
+
+This code converts the IMF year data into a datetime structure, while missing entries are recorded as NaT values.
+
+<p align="center">
+  <img src="linear regression python.png" alt="linear regression" width="700">
+  <br>
+  <em> scatter plot </em>
+</p>
+
+This scatter plot shows a positive linear relationship between the UN Estimates and World Bank Estimates.
 
 
+---
 
-## Data Preparation
+## 🔹 Key Findings 
 
-* Uploading and exploring the dataset using **Pandas**.
-* Checking data types and identifying data quality issues.
-* Checking and correcting missing values, incorrect dates, and formatting problems.
-* Correcting invalid date values and converting them into missing values (`NaT`).
-* Removing extra spaces from text fields to improve consistency.
-* Preparing string fields for accurate filtering and analysis.
-* Using charts and summary numbers to find key trends in the data.
-* Finding outliers using the **Interquartile Range (IQR)** method.
+### 1.Comparing Economic Estimates Across Organisations
 
-
-## Analysis
-
-
-* Importing Pandas to use for data cleaning and manipulation.  
-* Importing NumPy to use for numerical analysis and regression.  
-* Importing Matplotlib and Seaborn to use for data visualisation.  
-* Correlation analysis.  
-* Outlier detection using IQR.  
-* Linear regression.  
-
- 
-
-## Key Findings 
-
- 1. **Comparing Economic Estimates Across Organisations**
-
-
-The heatmap shows a nearly perfect match (0.93) between the United Nations and World Bank numbers, proving that both organizations report almost identical wealth patterns for these countries.
+I created this heatmap, 
 
 <p align="center">
   <img src="heatmap-python.png" alt="heatmap" Image" width="500">
@@ -50,19 +91,17 @@ The heatmap shows a nearly perfect match (0.93) between the United Nations and W
  <em> Heatmap </em>
 </p>
 
-
-
+The heatmap shows a **0.93** between the **United Nations (UN)** and **World Bank** numbers, suggesting that both organizations report similar trends across the countries analysed.
 
 **Business relevance:**
 
-By comparing data from different global organizations, a business can make sure the information is consistent and trustworthy before using it to make big investment decisions.
+By comparing data from different global organizations, a business can make sure the information is consistent and trustworthy before using it to make decisions.
 
+---
 
+## 2.Identifying Outliers
 
- 2. **Identifying Economic Outliers**
-
-
-Using the Interquartile Range (IQR) method, I identified 23 countries with unusually high GDP per capita values, including Luxembourg, Ireland, and Singapore.
+Using the Interquartile Range (IQR) method, **23** countries were identified with unusually high GDP per capita values, and the top 5 included **Luxembourg**, **Ireland** and **Singapore**. 
 
 <p align="center">
   <img src="outliers-python.png" alt=" outliers" width="800">
@@ -70,12 +109,12 @@ Using the Interquartile Range (IQR) method, I identified 23 countries with unusu
   <em> Interquartile Range and outliers</em>
 </p>
 
-
 **Business relevance:**
 
 Identifying outliers helps analysts understand unusual patterns in the data and investigate factors that may influence overall results.
 
+---
 
-## Conclusion
+## ✅ Conclusion
 
-This project demonstrates my ability to use Python to clean, analyse, and visualise real-world economic data. Using **Pandas, NumPy, Matplotlib, and Seaborn**, I applied data cleaning, exploratory analysis, statistical techniques, and visualisation methods to turn raw data into useful insights.
+This project demonstrates my ability to use Python to clean, analyse, and visualise a real-world economic data. Using **Pandas, NumPy, Matplotlib, and Seaborn**, I applied data cleaning, exploratory analysis, statistical techniques, and visualisation methods to turn raw data into useful insights.
