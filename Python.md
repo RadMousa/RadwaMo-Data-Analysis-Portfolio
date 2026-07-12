@@ -104,7 +104,7 @@ By comparing data from different global organizations, a business can make sure 
 Using the Interquartile Range (IQR) method, **23** countries were identified with unusually high GDP per capita values, and the top 5 included **Luxembourg**, **Ireland** and **Singapore**. 
 
 <p align="center">
-  <img src="outliers-python.png" alt=" outliers" width="800">
+  <img src="top outliers python.png" alt=" outliers" width="800">
   <br>
   <em> Interquartile Range and outliers</em>
 </p>
