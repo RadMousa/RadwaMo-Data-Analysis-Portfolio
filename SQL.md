@@ -93,7 +93,7 @@ The results showed that:
 <p align="center">
   <img src="cities-with-new-&population-SQL.png" alt="Description of image" width="700">
   <br>
-  <em>Figure 1: New Districts with the highest population.</em>
+  <em> New Districts with the highest population.</em>
 </p>
 
 **Business relevance:**
@@ -112,7 +112,7 @@ The analysis showed that countries such as **Luxembourg** and **Switzerland** ha
 <p align="center">
   <img src="Highest-GNP-SQL.png" alt="Description of image" width="700">
   <br>
-  <em>Figure 1: Countries with the highest GNP.</em>
+  <em> Countries with the highest GNP.</em>
 </p>
 
 
