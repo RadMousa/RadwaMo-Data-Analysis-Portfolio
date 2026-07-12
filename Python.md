@@ -5,9 +5,15 @@
 
 This project uses **Python** to clean, analyse, and visualise GDP Per Capita across different countries. 
 
+## Dataset 
+
+***GDP Nominal Per Capita** 
+
+*Sources*: via bootcamp 
 
 
-## Approach & Process
+
+## Data Preparation
 
 * Uploading and exploring the dataset using **Pandas**.
 * Checking data types and identifying data quality issues.
@@ -19,7 +25,7 @@ This project uses **Python** to clean, analyse, and visualise GDP Per Capita acr
 * Finding outliers using the **Interquartile Range (IQR)** method.
 
 
-## Main Techniques Used
+## Analysis
 
 
 * Importing Pandas to use for data cleaning and manipulation.  
@@ -30,12 +36,6 @@ This project uses **Python** to clean, analyse, and visualise GDP Per Capita acr
 * Linear regression.  
 
  
-## Dataset 
-
-***GDP Nominal Per Capita** 
-
-*Sources*: via bootcamp 
-
 
 ## Key Findings 
 
@@ -44,14 +44,18 @@ This project uses **Python** to clean, analyse, and visualise GDP Per Capita acr
 
 The heatmap shows a nearly perfect match (0.93) between the United Nations and World Bank numbers, proving that both organizations report almost identical wealth patterns for these countries.
 
-*Business relevance:*
-
-By comparing data from different global organizations, a business can make sure the information is consistent and trustworthy before using it to make big investment decisions.
-
 <p align="center">
-  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/heatmap-python.png" alt="Main Project Image" width="500">
+  <img src="heatmap-python.png" alt="heatmap" Image" width="500">
+ <br>
+ <em> Heatmap </em>
 </p>
 
+
+
+
+**Business relevance:**
+
+By comparing data from different global organizations, a business can make sure the information is consistent and trustworthy before using it to make big investment decisions.
 
 
 
@@ -60,14 +64,16 @@ By comparing data from different global organizations, a business can make sure 
 
 Using the Interquartile Range (IQR) method, I identified 23 countries with unusually high GDP per capita values, including Luxembourg, Ireland, and Singapore.
 
-*Business relevance:*
-
-Identifying outliers helps analysts understand unusual patterns in the data and investigate factors that may influence overall results.
-
 <p align="center">
-  <img src="https://github.com/RadMousa/RadwaMo-Data-Analysis-Portfolio/blob/main/outliers-python.png" alt="Main Project Image" width="500">
+  <img src="outliers-python.png" alt=" outliers" width="800">
+  <br>
+  <em> Interquartile Range and outliers</em>
 </p>
 
+
+**Business relevance:**
+
+Identifying outliers helps analysts understand unusual patterns in the data and investigate factors that may influence overall results.
 
 
 ## Conclusion
