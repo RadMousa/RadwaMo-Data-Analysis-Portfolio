@@ -49,8 +49,10 @@ Creating separate date fields made it easier to analyse sales trends over time u
 
 <p align="center">
   <img src="original-retail.png" width="700">
+   <br>
+  <em> This is the raw dataset.</em>
 </p>
-                                                          This is the raw Retail dataset.    
+                                                              
 
 
 <p align="center">
