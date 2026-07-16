@@ -39,7 +39,7 @@ The following steps were completed during the project:
 
 ## 🔹 Data Formatting and Transformation
 
-- **Power Query** – used to clean and transform the raw dataset before analysis.
+- **Power Query** 
 
 <p align="center">
   <img src="Power Query.png" alt="Power Query" width="700">
@@ -47,29 +47,29 @@ The following steps were completed during the project:
 
 Here I used Power Query to check for missing data, errors, changed Data Types and removed unused columns. 
 
-- **Connecting Datasets** – created relationships between tables to combine information from different sources.
+- **Connecting Datasets** 
 
 <p align="center">
   <img src="connecting table.png" alt="Connecting Datasets" width="700">
 </p>
 
-Here the relationship between the two tables is created. 
+Here the relationship between the two tables is created to combine the information in both tables. 
 
-- **DAX Measures** – created Average Discount Rate calculation.
-- 
+- **DAX Measures**
+  
 <p align="center">
   <img src="DAX.png" alt="DAX calculation" width="700">
 </p>
 
 Here I used DAX to create the Average Discount Rate calculation. 
 
-- **Data Formatting** – formatted columns such as sales and discounts as currency
+- **Data Formatting**
 
 <p align="center">
   <img src="Data formatting.png" alt="Data Formatting" width="700">
 </p>
 
-Here I formatted the sales column to currency for better readability.
+Here I formatted the sales and discounts column to currency for better readability.
 
 
 ---
