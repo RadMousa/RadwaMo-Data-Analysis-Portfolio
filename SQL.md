@@ -84,18 +84,18 @@ In this query I used an INNER JOIN, WHERE, COUNT(), MAX(), SUM(), GROUP BY, and 
 
 I analysed city populations to identify the largest population centres within the database.
 
-The results showed that:
-
-- **New York City** had the largest population, with over **8 million** residents.
-- **New South Wales** followed with approximately **3 million** residents.
-- **Newmaa** had a population of over **500,000** residents.
-  
 <p align="center">
   <img src="cities-with-new-&population-SQL.png" alt="Description of image" width="700">
   <br>
   <em> New Districts with the highest population.</em>
 </p>
 
+The analysis showed that:
+
+- **New York City** had the largest population, with over **8 million** residents.
+- **New South Wales** followed with approximately **3 million** residents.
+- **Newmaa** had a population of over **500,000** residents.
+  
 **Business relevance:**
 
 This can help organisations identify major population centres, helping them to target densely populated markets for marketing, logistics, and business expansion.
@@ -107,14 +107,13 @@ This can help organisations identify major population centres, helping them to t
 
 I compared countries using **Gross National Product (GNP)**
 
-The analysis showed that countries such as **Luxembourg** and **Switzerland** have a higher GNP per capita than much larger economies, such as the **United States** and **Japan**.
-
 <p align="center">
   <img src="Highest-GNP-SQL.png" alt="Description of image" width="700">
   <br>
   <em> Countries with the highest GNP.</em>
 </p>
 
+The analysis showed that countries such as **Luxembourg** and **Switzerland** have a higher GNP per capita than much larger economies, such as the **United States** and **Japan**.
 
 **Business relevance:**
 
