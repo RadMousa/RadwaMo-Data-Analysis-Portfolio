@@ -187,8 +187,14 @@ The United States generated the highest overall revenue.
   <em> Product Revenue by Country.</em>
 </p>
 
-> **Business relevance:**  
-> These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies.
+The analysis showed that:
+
+- The bike sales analysis revealed strong revenue growth over five years, reaching a peak of **$29.7 million in 2021**.
+- The **United States** generated the highest overall revenue at **$30 million**
+-  **Canada** has the lowest overall revenue at **$8 million** 
+
+ **Business relevance:**  
+These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies.
 
 ---
 
