@@ -113,7 +113,9 @@ I compared countries using **Gross National Product (GNP)**
   <em> Countries with the highest GNP.</em>
 </p>
 
-The analysis showed that countries such as **Luxembourg** and **Switzerland** have a higher GNP per capita than much larger economies, such as the **United States** and **Japan**.
+The analysis showed that:
+
+countries such as **Luxembourg** and **Switzerland** have a higher GNP per capita than much larger economies, such as the **United States** and **Japan**.
 
 **Business relevance:**
 
