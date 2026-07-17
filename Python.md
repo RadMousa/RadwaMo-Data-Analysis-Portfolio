@@ -12,7 +12,9 @@ This project uses **Python** to clean, analyse, and visualise GDP Per Capita acr
 ## 🔹 Dataset 
 
 ### GDP Nominal Per Capita
-
+- **Rows:** 223
+- **Columns:** 9
+- **Format:** CSV
 **Sources**: via bootcamp 
 
 ---
