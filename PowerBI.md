@@ -90,7 +90,7 @@ The dashboard was created to explore:
 - The factors that influence overall sales performance
 
 <p align="center">
-  <img src="Retail Dashboard.png" alt="Retail Sales Dashboard" width="800">
+  <img src="powerbi Dashboard.png" alt="Retail Sales Dashboard" width="800">
   <br>
   <em>Retail Sales Dashboard created in Power BI.</em>
 </p>
