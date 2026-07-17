@@ -92,6 +92,8 @@ I created this heatmap,
  <em> Heatmap </em>
 </p>
 
+The analysis showed that:
+
 The heatmap shows a **0.93** between the **United Nations (UN)** and **World Bank** numbers, suggesting that both organizations report similar trends across the countries analysed.
 
 **Business relevance:**
@@ -110,7 +112,7 @@ I used the Interquartile Range (IQR) to identify outliers.
   <em> Interquartile Range and outliers</em>
 </p>
 
-The analysis showed:
+The analysis showed that:
 - Using the Interquartile Range (IQR) method, **23** countries were identified with unusually high GDP per capita values.
 - The top 5 included **Luxembourg**, **Ireland** and **Singapore**. 
 
