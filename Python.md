@@ -1,8 +1,8 @@
-# 🐍 PythonGDP Nominal Per Capita (Python)
+# 🐍 GDP Nominal Per Capita (Python)
 
 ---
 
-## 🔹 Project Overview - [Click-here-to-see-Colab-page](https://colab.research.google.com/drive/15DomvHb9vWH_qhxbvpMkcTWZboUc6PMq#scrollTo=o00VsTI2dAoe)
+## 🔹 Project Overview - [Open In Colab](https://colab.research.google.com/drive/15DomvHb9vWH_qhxbvpMkcTWZboUc6PMq#scrollTo=o00VsTI2dAoe)
 
 This project uses **Python** to clean, analyse, and visualise GDP Per Capita across different countries. 
 
@@ -101,13 +101,17 @@ By comparing data from different global organizations, a business can make sure 
 
 ## 2.Identifying Outliers
 
-Using the Interquartile Range (IQR) method, **23** countries were identified with unusually high GDP per capita values, and the top 5 included **Luxembourg**, **Ireland** and **Singapore**. 
+I used the Interquartile Range (IQR) to identify outliers.
 
 <p align="center">
   <img src="top outliers python.png" alt=" outliers" width="800">
   <br>
   <em> Interquartile Range and outliers</em>
 </p>
+
+The analysis showed:
+- Using the Interquartile Range (IQR) method, **23** countries were identified with unusually high GDP per capita values.
+- The top 5 included **Luxembourg**, **Ireland** and **Singapore**. 
 
 **Business relevance:**
 
@@ -117,4 +121,4 @@ Identifying outliers helps analysts understand unusual patterns in the data and 
 
 ## ✅ Conclusion
 
-This project demonstrates my ability to use Python to clean, analyse, and visualise a real-world economic data. Using **Pandas, NumPy, Matplotlib, and Seaborn**, I applied data cleaning, exploratory analysis, statistical techniques, and visualisation methods to turn raw data into useful insights.
+This project demonstrates my ability to use Python to clean, analyse, and visualise economic data. Using **Pandas, NumPy, Matplotlib, and Seaborn**, I applied data cleaning, Data exploration, Analytical methods, and visualisation methods to turn raw data into insights.
