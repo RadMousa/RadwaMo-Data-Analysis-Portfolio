@@ -64,7 +64,7 @@ Here the relationship between the two tables is created to combine the informati
 </p>
 
 <p align="center">
-  <img src="profit margin %.png" alt=" Profit Margin DAX calculation" width="700">
+  <img src="Profit margin.png" alt=" Profit Margin DAX calculation" width="700">
 </p>
 
 Here I used DAX to create the Average Discount Rate calculation and Profit Margin Percentage. 
