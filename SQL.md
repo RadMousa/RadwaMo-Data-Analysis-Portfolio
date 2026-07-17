@@ -1,6 +1,6 @@
 # 🗄️ World (MySQL)
 
---
+---
 
 ## 🔹 Project Overview
 
