@@ -1,4 +1,6 @@
-# Retail Sales Performance Dashboard (Power BI) [Click Here For The Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE2OTY0ODQtNjU3NC00MjkzLThhYTQtZWE4YzMzZWE2ZDdlIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9 )
+# 📊 Retail Sales Performance Dashboard (Power BI)
+
+[Click Here For The Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE2OTY0ODQtNjU3NC00MjkzLThhYTQtZWE4YzMzZWE2ZDdlIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9 )
 
 ## 🔹 Project Overview
 
