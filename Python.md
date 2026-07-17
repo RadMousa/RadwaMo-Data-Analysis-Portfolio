@@ -1,8 +1,9 @@
 # 🐍 GDP Nominal Per Capita (Python)
 
+[Open In Colab](https://colab.research.google.com/drive/15DomvHb9vWH_qhxbvpMkcTWZboUc6PMq#scrollTo=o00VsTI2dAoe)
 ---
 
-## 🔹 Project Overview - [Open In Colab](https://colab.research.google.com/drive/15DomvHb9vWH_qhxbvpMkcTWZboUc6PMq#scrollTo=o00VsTI2dAoe)
+## 🔹 Project Overview -
 
 This project uses **Python** to clean, analyse, and visualise GDP Per Capita across different countries. 
 
