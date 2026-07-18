@@ -1,3 +1,5 @@
+![Junior Data Analyst Portfolio](./Github Banner.png)
+
 # Data Analysis Portfolio
 
 Hi, my name is Radwa.
