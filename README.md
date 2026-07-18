@@ -6,7 +6,7 @@ This is my data analysis portfolio, featuring projects I completed during my Lev
 
 The projects in this portfolio demonstrate my ability to work with data, identify patterns and trends, and create clear visualisations to help communicate insights and support decision-making.
 
-<br>
+---
 
 ## My Skills
 
@@ -20,9 +20,27 @@ The projects in this portfolio demonstrate my ability to work with data, identif
 
 
 **Python / Google Colab** – I learned how to use Python libraries such as pandas, NumPy, matplotlib and seaborn to perform data cleaning, aggregations and data visualisation.
+## 🛠️ My Skills
+
+### 📊 Excel and data basics
+I used Excel for data cleaning, validation and formatting. Applied formulas such as XLOOKUP, IF statements and conditional formatting for analysis. Created pivot tables, pivot charts and dashboards for data visualisation.
+
+<br>
+
+### Power BI and Tableau / Dashboards
+I used Power Query, DAX and calculated fields to clean data and perform calculations. I also built interactive dashboards that identify patterns and show insights.
+
+<br>
+
+### 🗄️ SQL / MySQL Workbench
+I used WHERE, AND and OR to filter data, and applied aggregation functions such as GROUP BY and HAVING to analyse the data while joining tables.
+
+<br>
+
+### 🐍 Python / Google Colab
+I learned how to use Python libraries such as pandas, NumPy, matplotlib and seaborn to perform data cleaning, aggregations and data visualisation.
 
 ---
-
 
 | Project | Tools Used | Description |
 |---------|------------|-------------|
