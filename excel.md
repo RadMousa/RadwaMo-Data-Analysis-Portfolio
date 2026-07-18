@@ -75,12 +75,12 @@ Creating separate date fields made it easier to analyse sales trends over time u
 
 The analysis involved:
 
-- **Data cleaning and formatting**
-- **SUMIFS and AVERAGEIF functions**
-- **Calculated columns for revenue, cost, and profit**
-- **PivotTables to summarise data**
-- **PivotCharts to visualise and analyse trends**
-- **Conditional formatting to highlight performance**
+- Cleaning and formatting data for analysis.
+- Applying SUMIFS and AVERAGEIF functions to calculate insights
+- Creating calculated columns to analyse revenue, cost, and profit
+- Summarising data using PivotTables
+- Visualising trends and patterns using PivotCharts
+- Using conditional formatting to highlight patterns.
 
 ---
 
@@ -102,9 +102,9 @@ The table included **total sales, customer purchases by gender, and average sale
 </p>
 
 
-I used **SUMIF()**, **SUMIFS()**, and **AVERAGEIF()** to calculate sales metrics based on different criteria and applied conditional formatting to highlight higher and lower performing products.
+- I used **SUMIF()**, **SUMIFS()**, and **AVERAGEIF()** to calculate sales metrics based on different criteria and applied conditional formatting to highlight higher and lower performing products.
 
-This helped identify differences in product performance and purchasing patterns.
+- This helped identify differences in product performance and purchasing patterns.
 
 
 ---
@@ -119,7 +119,7 @@ The original dataset had a numerical age column, I created an age category colum
 </p>
 
 
-This made it easier to compare sales across different age groups in PivotTables and charts.
+- This made it easier to compare sales across different age groups in PivotTables and charts.
 
 ---
 
@@ -127,13 +127,12 @@ This made it easier to compare sales across different age groups in PivotTables 
 
 The original dataset did not contain a commission value, so I created a new Commission column to calculate the commission earned on each sale.
 
-I calculated this by multiplying the Total Sales value by the commission rate of **1.5%**.
-
 <p align="center">
   <img src="calculatedcolumn-excel.png" width="700">
 </p>
 
-
+- I calculated this by multiplying the Total Sales value by the commission rate of **1.5%**.
+  
 ---
 
 # 🟦 Bike Sales Dataset Analysis
@@ -146,8 +145,8 @@ I created a PivotTable and chart to compare revenue by age group.
   <img src="Revenue-comparision-by-age.png" width="700">
 </p>
 
-The chart shows that Adults (35-64) make up the largest customer segment and they are responsible for half of the overall revenue. The senior age group make up less than 1% of total revenue. 
-
+- The chart shows that Adults (35-64) make up the largest customer segment and they are responsible for half of the overall revenue. 
+- The senior age group make up less than 1% of the total revenue. 
 
 ---
 
@@ -155,18 +154,20 @@ The chart shows that Adults (35-64) make up the largest customer segment and the
 
 ## 1. Customer Purchasing Behaviour
 
-The retail analysis showed that clothing was the most frequently purchased product category by both male and female customers.
-
-However, despite having the highest purchase volume, clothing generated the lowest total sales, indicating a lower average selling price compared with other product categories.
+I used a data table and conditional formatting to compare total sales, purchase quantity by gender and average sales across different product categories.
 
 <p align="center">
   <img src="quantity- table -excel.png" width="700">
-  <br>
-  <em> Quantity Table.</em>
 </p>
 
-> **Business relevance:**  
-> Understanding purchasing behaviour helps organisations evaluate pricing strategies, product performance, and opportunities to improve profitability.
+The analysis showed that:
+
+- **clothing** was the most frequently purchased product category by both male and female customers
+-  Although **clothing** had the highest purchase volume, it generated the lowest total sales. This indicates a lower average selling price compared with other product categories.
+
+ **Business relevance:**
+ 
+ Understanding purchasing behaviour helps organisations access their pricing, product performance, and identifying ways to increase profit.
 
 ---
 
@@ -196,10 +197,10 @@ The analysis showed that:
 -  **Canada** has the lowest overall revenue at **$8 million** 
 
  **Business relevance:**  
-These insights can help organisations identify high-performing markets, understand their core customer base, and make informed decisions about future sales and marketing strategies.
+These insights can help organisations identify high-performing markets, understand their customer base, and make informed decisions about future sales and marketing strategies.
 
 ---
 
 # ✅ Conclusion
 
-This project demonstrates my ability to clean and analyse data using **Excel**, apply formulas and PivotTables, create visualisations, and identify meaningful business insights.
+This project demonstrates my ability to clean and analyse data using **Excel**, apply formulas and PivotTables, create visualisations, and identify insights.
