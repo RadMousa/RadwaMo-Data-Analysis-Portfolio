@@ -2,9 +2,13 @@
 
 Hi, my name is Radwa.
 
+
 This is my data analysis portfolio, featuring projects I completed during my Level 3 Data Analysis Bootcamp. Throughout these projects, I developed practical experience in data cleaning, analysis, and visualisation using tools including Excel, SQL, Power BI, Tableau, and Python.
 
+
 The projects in this portfolio demonstrate my ability to work with data, identify patterns and trends, and create clear visualisations to help communicate insights and support decision-making.
+
+
 
 ---
 
