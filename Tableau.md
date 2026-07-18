@@ -39,9 +39,17 @@ The following steps were completed during the project:
 
 ## 🔹 Data Formatting and Transformation
 
-- **Methods & Tools Used** 
+<p align="center">
+  <img src="Aggregation- Tableau.png" alt=" Aggregation Functions" width="700">
+</p>
 
-Here I used data aggregation using average and sum calculations, scatter plots with linear regression trend lines, bar charts compare genres and artists, interactive filters to explore different areas of the dataset, and interactive dashboard design using multiple worksheets. 
+- Here I used **aggregations** such as average and sum calculations to accurately measure track features and engagement to draw insights.
+
+<p align="center">
+  <img src="Linear Regression Line.png" alt=" Linear Trend line" width="700">
+</p>
+
+- Here I used a **scatter plot** with a linear regression line to identify patterns and see whether the tracks duration affected its popularity.  
 
 ---
 
@@ -49,18 +57,22 @@ Here I used data aggregation using average and sum calculations, scatter plots w
 
 The dashboard was created to explore:
 
-- Overall sales and profit results
-- How sales are distributed across customer segments
-- How different regions contribute to total sales
-- The factors that influence overall sales performance
+- Overall popularity of different music genres.
+- Individual artist's popularity based on total popularity points
+- Compared average audio features and total popularity across genres to identify possible relationship.
+- How average danceability levels correlate with track success
+- The relationship between track duration and popularity
 
 <p align="center">
-  <img src="dashboard.png" alt="Spotify Features Dashboard" width="800">
-  <br>
-  <em>Spotify Features Dashboard created in Tableau.</em>
+  <img src="Tableau Dashboard.png" alt="Spotify Features Dashboard" width="700">
 </p>
 
-The dashboard allows users to interact with different visuals, by selecting a category, region, or segment the charts show relevant sales information. This helps users explore the data in more detail.
+<p align="center">
+  <img src="Tableau-Dashboard.png" alt="Spotify Features Dashboard" width="700">
+</p>
+
+
+The dashboard allows users to interact with different visuals. By selecting a genre or artist, the charts show relevant track information. This helps users explore the data in more detail.
 
 ---
 
@@ -68,8 +80,17 @@ The dashboard allows users to interact with different visuals, by selecting a ca
 
 ### 1. Track Characteristics and Popularity
 
-The analysis found a positive relationship between danceability and popularity, with tracks scoring between 0.5 and 0.7 in danceability having higher popularity. It also showed that tracks lasting between 3.5 – 4.5 minutes performed better than shorter or longer songs.
+The scatter plot with a trendline was used to show how tracks with higher danceability scores generally achieve higher average popularity.
 
+<p align="center">
+  <img src="danceability.png" alt=" Average Danceability" width="700">
+</p>
+
+The analysis showed that:
+- A **positive** relationship between danceability and popularity.
+- Tracks scoring between **0.5 and 0.7** in danceability having higher popularity.
+- Tracks lasting between **3.5 – 4.5** minutes performed better than shorter or longer songs
+  
 **Business relevance:**
 
 These insights could help Spotify improve playlist recommendations and support artists and record labels in understanding listener preferences.
@@ -78,7 +99,16 @@ These insights could help Spotify improve playlist recommendations and support a
 
 ### 2. Genre and Artist Performance
 
-The dashboard showed that Pop, Rap, and Rock were the most popular genres in the dataset. Drake achieved the highest overall popularity, while artists such as Hans Zimmer showed that other genres can also generate significant listener engagement.
+A bar chart was used to compare Artist's popularity based on their total popularity scores. 
+
+<p align="center">
+  <img src="Artist Popularity.png" alt=" Artist Popularity" width="700">
+</p>
+
+The analysis showed that:
+- **Pop**, **Rap**, and **Rock** were the most popular genres.
+- **Drake** achieved the highest overall popularity.
+- Artists such as **Hans Zimmer** showed that other genres can also generate significant listener engagement.
 
 **Business relevance:**
 
@@ -88,4 +118,4 @@ Understanding genre and artist performance can be used to support playlist curat
 
 ## ✅ Conclusion
 
-This project demonstrates my ability to analyse large datasets, create visualisations tailored to specific data goals and draw insights and trends.
+This project demonstrates my ability to use **Tableau** to analyse large datasets, create visualisations tailored to specific data goals and draw insights and trends.
