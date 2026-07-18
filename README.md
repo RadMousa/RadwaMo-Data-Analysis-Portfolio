@@ -1,4 +1,4 @@
-![Junior Data Analyst Portfolio](./Github Banner.png)
+![Junior Data Analyst Portfolio](./Github-Banner.png)
 
 # Data Analysis Portfolio
 
