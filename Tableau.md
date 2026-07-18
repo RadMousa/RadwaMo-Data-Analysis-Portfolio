@@ -39,11 +39,13 @@ The following steps were completed during the project:
 
 ## 🔹 Data Formatting and Transformation
 
+
 <p align="center">
   <img src="Aggregation- Tableau.png" alt=" Aggregation Functions" width="700">
 </p>
 
 - Here I used **aggregations** such as average and sum calculations to accurately measure track features and engagement to draw insights.
+
 
 <p align="center">
   <img src="Linear Regression Line.png" alt=" Linear Trend line" width="700">
