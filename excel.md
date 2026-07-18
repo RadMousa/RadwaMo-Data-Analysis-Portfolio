@@ -58,14 +58,16 @@ Creating separate date fields made it easier to analyse sales trends over time u
 <p align="center">
   <img src="day().png" width="700">
 </p>
-                                                        Here I used the DAY () function, to return the day of the month.   
+
+- Here I used the DAY () function, to return the day of the month.   
 
 
                 
 <p align="center">
   <img src="DATE .png" width="700">
 </p>
-                                                       I changed the column format to Date so the values display correctly.                                                      
+
+- I changed the column format to Date so the values display correctly.                                                      
                                                           
 ---
 
