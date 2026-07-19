@@ -100,7 +100,7 @@ The analysis showed that:
   
 **Business relevance:**
 
-This can help organisations identify major population centres, helping them to target densely populated markets for marketing, logistics, and business expansion.
+This analysis identifies the most populated areas within a specific region (districts starting with 'New'), helping businesses make decisions around marketing, logistics, and business expansion.
 
 ---
 
